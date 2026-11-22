@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>〔成都鈴醫書〕（1881 年抄記，柏林 Slg. Unschuld 8555） / Cheng du ling yi shu [An itinerant physician’s text from Chengdu]: Transcription Dataset</title>
+        <respStmt>
+          <resp>Transcription dataset editor</resp>
+          <persName ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Slg. Unschuld 8555 <ref target="https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000">Source catalogue</ref>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">Literary Chinese</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0001/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">褐色單面，近右緣露四處線裝針腳。約 x775–1069、y1200–1295 灰墨書館藏號，字跡另列。</note>
+          <note type="editorial">圖上附記　8555　館藏號</note>
+        </div>
+      </div>
+      <div n="2" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0002/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">褐色前封裡，左側另見相鄰淡色窄紙條。主面無可識墨字。</note>
+        </div>
+      </div>
+      <div n="3" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0003/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">白色前護葉，右邊見褐色鄰頁窄邊，主面有斜摺及下緣皺摺。</note>
+        </div>
+      </div>
+      <div n="4" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0004/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">白色前護葉反面。主面空白。左緣相鄰褐紙條約 y1000、1780 及更下方有切斷的墨曲筆，不成可識字。</note>
+        </div>
+      </div>
+      <div n="5" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0005/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f005-c01" xml:id="u-f005-c01">三皇治世有人元陰陽二氣兩相傳坎離宮中保定</ab>
+          <ab type="body" n="f005-c02" xml:id="u-f005-c02">主免得六慾共七慾眼竅通知忘絕相五脏六腑上</ab>
+          <ab type="body" n="f005-c03" xml:id="u-f005-c03">下連十二重樓通關竅心猿意馬莫偷閑</ab>
+          <ab type="body" n="f005-c04" xml:id="u-f005-c04">病有四百四十症約有八百八十方只有五樣病難</ab>
+          <ab type="body" n="f005-c05" xml:id="u-f005-c05">醫癆癆氣膨膈閻王請下客此人少有病真醫不得</ab>
+          <ab type="body" n="f005-c06" xml:id="u-f005-c06">真近來醫家雖多總要遇倒之醫明理總要有緣</ab>
+          <note type="editorial">六欄。紙有水平折痕與外緣裂口，左下角斜缺切及末欄。此幅正文另有 f039 色卡重拍。</note>
+          <note type="editorial">疑讀　02「免」「慾」「忘絕相」依字面暫讀。05「癆癆」首字疒內筆比次字不同，可能是「瘓」等另一字。「膨膈」兩字皆月旁，次字右部近冋形；「閻」門內可見三短橫，依此讀「閻王」。「下客」及近下緣「得」均待覆。06「遇倒」前後以原讀保留，末字「緣」下部有損。</note>
+          <note type="editorial">圈點　多欄右側灰墨空圈，01 見「陰」「坎」旁，02 有「免」「眼」「五」旁，03 有「十」「心」「閑」右側，04 見「約」「方」旁，05 有「癆」「問」「此」「真」旁，06 有「近」「總」旁及末段散點。</note>
+        </div>
+      </div>
+      <div n="6" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0006/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f006-c01" xml:id="u-f006-c01">無緣之人如中彎弓之鳥見曲木而高飛所以人</ab>
+          <ab type="body" n="f006-c02" xml:id="u-f006-c02">隔肚皮飯甑隔木皮在台列位要想得明白弟胸中</ab>
+          <ab type="body" n="f006-c03" xml:id="u-f006-c03">無有実學也不敢擅遊江湖列位鄉親有逢前逢後</ab>
+          <ab type="body" n="f006-c04" xml:id="u-f006-c04">站立兩傍有賢愚不等昨日有一位老尊年上前來</ab>
+          <ab type="body" n="f006-c05" xml:id="u-f006-c05">問道先生你有心痛之葯否我與先生買些弟此時</ab>
+          <ab type="body" n="f006-c06" xml:id="u-f006-c06">言道要老尊年認得真那老尊年又問道甚麼針弟</ab>
+          <note type="editorial">六欄，與上幅意義連續。右外緣折裂，右下大斜缺。欄間有濃墨點。</note>
+          <note type="editorial">疑讀　01 末「人」觸右下殘邊。02「飯甑」之下字右部几形，可能是方言同音字。03「実」下部連筆，保留所見俗形。「逢前逢後」的走之兩筆可見。06 末「弟」偏欄右，左下可見另一紙層淡墨，字未定。</note>
+        </div>
+      </div>
+      <div n="7" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0007/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f007-c01" xml:id="u-f007-c01">言道賣的是瓦針能治風湿麻木一身筋骨疼痛胃</ab>
+          <ab type="body" n="f007-c02" xml:id="u-f007-c02">氣疼痞氣疼弟講與老尊年聽恐非真心痛若是真</ab>
+          <ab type="body" n="f007-c03" xml:id="u-f007-c03">心痛早發夕死夕發早亡如三國蜀川之名將姓姜</ab>
+          <ab type="body" n="f007-c04" xml:id="u-f007-c04">名維字白約乃真心氣疼也此則無治矣心痛者有</ab>
+          <ab type="body" n="f007-c05" xml:id="u-f007-c05">九種氣痛內經書上講得明白有寒食攻心清氣不</ab>
+          <ab type="body" n="f007-c06" xml:id="u-f007-c06">能上升濁氣不能下降故二氣不能均分方可轉〔下緣殘〕</ab>
+          <note type="editorial">六欄，底緣斜切，左側欄字在底邊受損；開首「言道」接前幅末「弟」。</note>
+          <note type="editorial">疑讀　01「瓦」針似「瓦」，保留。03 形作「蜀川」。04 字形作「白約」。05 末「不」下部截。06「轉」下有殘筆，形未定。</note>
+          <note type="editorial">圈點　多欄右側不等距墨點，按原欄保留文字流，不移補句讀。</note>
+        </div>
+      </div>
+      <div n="8" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0008/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f008-c01" xml:id="u-f008-c01">九種氣痛停食在胃心酸日久不知根源如何分有</ab>
+          <ab type="body" n="f008-c02" xml:id="u-f008-c02">個寒食氣疼熱氣疼冷氣疼穿心氣疼温氣</ab>
+          <ab type="body" n="f008-c03" xml:id="u-f008-c03">疼走氣疼稍氣疼膀胱氣疼螬氣疼渾身氣疼食積</ab>
+          <ab type="body" n="f008-c04" xml:id="u-f008-c04">氣痞塊作疼婦人則有胎氣疼血氣疼血癥血瘕作疼又</ab>
+          <ab type="body" n="f008-c05" xml:id="u-f008-c05">有氣血流入肺經肺乃清虛之腑故曰藏魂氣虛者運化不</ab>
+          <ab type="body" n="f008-c06" xml:id="u-f008-c06">平血枯者道路閉塞又恐氣虛生痰血虛生火故尔</ab>
+          <note type="editorial">六欄，接前幅論九種氣痛。右上、右緣與底緣有缺損，多欄旁黑點。</note>
+          <note type="editorial">疑讀　03 同列「稍」「螬」左部各近禾、虫，「渾」水旁墨弱。04「痞」或「痦」。06「平」一豎貫底，末字作「尔」。</note>
+        </div>
+      </div>
+      <div n="9" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0009/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f009-c01" xml:id="u-f009-c01">咳嗽之症弟初到貴境話不說不鼓不打不响說話說與知人</ab>
+          <ab type="body" n="f009-c02" xml:id="u-f009-c02">送飯送與飢寶劍賜烈士紅粉賜與佳人水有源頭木有</ab>
+          <ab type="body" n="f009-c03" xml:id="u-f009-c03">根為人豈可無根本弟欲多說上几句話來列位道我是賣</ab>
+          <ab type="body" n="f009-c04" xml:id="u-f009-c04">當的欲得不說又怎賢愚不等近有狂詐之徒說白扯</ab>
+          <ab type="body" n="f009-c05" xml:id="u-f009-c05">謊假意口傳單方不分四十八節之病弄假成真看病</ab>
+          <ab type="body" n="f009-c06" xml:id="u-f009-c06">不分表裏陰陽用葯不知補瀉宣通滯滑燥湿輕重</ab>
+          <note type="editorial">六欄，左下折角與上緣小損，濃墨點遍欄。右一、右二均有字偏欄右。</note>
+          <note type="editorial">圖上附記　明　補字，在 01「話不說不」末「不」右，y1360–1467。</note>
+          <note type="editorial">圖上附記　人　補字，在 02「飢」右下，y741–851，補讀「送與飢人」。</note>
+          <note type="editorial">疑讀　01「弟」位在「症」下偏右，與句順相連。04「狂詐」首字左旁略淡。06「滯」水旁內形難分。</note>
+        </div>
+      </div>
+      <div n="10" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0010/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f010-c01" xml:id="u-f010-c01">之劑故此誤人吾現這等之人只有醫道之名無有醫之</ab>
+          <ab type="body" n="f010-c02" xml:id="u-f010-c02">實是人不知分清濁誤被哄誠請去治病費〔墨塗〕了主家</ab>
+          <ab type="body" n="f010-c03" xml:id="u-f010-c03">許多銀錢並無毫厘效驗及至其病纒日久沉重困</ab>
+          <ab type="body" n="f010-c04" xml:id="u-f010-c04">危故此誤人大事日後倘來外有高明先生請治療疾</ab>
+          <ab type="body" n="f010-c05" xml:id="u-f010-c05">又恐怕從前先生一様狐疑不决如彎弓之鳥見曲</ab>
+          <ab type="body" n="f010-c06" xml:id="u-f010-c06">木而高飛正是前人撒土〔瞞疑〕壞後人眼睛古人云世無</ab>
+          <note type="editorial">六欄，右下角缺。右側外緣及中腰有橫摺，文字有淡墨與反透。</note>
+          <note type="editorial">圖上附記　眠〔疑〕　03「病」「纒」之間偏右，約 y1770–1850 小筆字。與主欄筆畫是否相接待核。</note>
+          <note type="editorial">疑讀　01「現」右部見，左部略簡。02「哄誠」第二字言旁，暫依形；「費」下大墨塗一字，中央仍見口形。06「土」下木形重疊，下一字似「壞」。</note>
+        </div>
+      </div>
+      <div n="11" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0011/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f011-c01" xml:id="u-f011-c01">良醫枉死者過半矣用藥不投方任你拏船裝病起有</ab>
+          <ab type="body" n="f011-c02" xml:id="u-f011-c02">不治之理葯豈有無獲效之由乎在醫者治病須要精</ab>
+          <ab type="body" n="f011-c03" xml:id="u-f011-c03">習望聞問切之情用葯當審寒熱虚実之理有是脉必有</ab>
+          <ab type="body" n="f011-c04" xml:id="u-f011-c04">是症有是症必有是葯葯以投症病無不效如此變通</ab>
+          <ab type="body" n="f011-c05" xml:id="u-f011-c05">萬無一失近來醫家也多有高人傳授也有祖父相傳或</ab>
+          <ab type="body" n="f011-c06" xml:id="u-f011-c06">者廣遊江湖濟世之人術所以弟遊四方業醫有年矣醫</ab>
+          <note type="editorial">六欄，左緣有濕痕，紙上緣缺小角，頁底橫折。多欄右側點墨；06「弟」偏欄右，依對話讀入。</note>
+          <note type="editorial">疑讀　01「拏」上形有連筆；「病起有」按紙面字序。02「無獲」文句可有別斷，無補。03 頁用「実」俗形，04 欄首與上欄尾續。06 左欄底與 05 底之間有淡藍反透筆，未讀入。</note>
+        </div>
+      </div>
+      <div n="12" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0012/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f012-c01" xml:id="u-f012-c01">家二字也是難說醫書千卷各有灵枕治病之時必要診脉方</ab>
+          <ab type="body" n="f012-c02" xml:id="u-f012-c02">可主法用葯如兵有良將攻無不克千金易得一效難求决</ab>
+          <ab type="body" n="f012-c03" xml:id="u-f012-c03">勝在於良將决少在於良醫有軍無將不得勝有葯無醫</ab>
+          <ab type="body" n="f012-c04" xml:id="u-f012-c04">不得灵弟自在江湖之上得遇高人傳授領過明人指點棄</ab>
+          <ab type="body" n="f012-c05" xml:id="u-f012-c05">孔遊拋儒遍遊四海濟困扶危醫道者乃人之司命也但弟市</ab>
+          <ab type="body" n="f012-c06" xml:id="u-f012-c06">人治病有羔葯為首市貴先生升煉不同弟按三十六罡七十二地</ab>
+          <note type="editorial">六欄，右緣中段褐色漬，橫摺穿欄，多欄有濃墨點。04、05、06 的「弟」略偏欄右。</note>
+          <note type="editorial">疑讀　01「灵枕」次字木旁，右如冘。03「少」疑為「少／死」，小筆與03句法暫存。05「孔」下疊墨裡仍見走之。06「羔」或「羙」，下有點筆，後幅反覆同形。</note>
+        </div>
+      </div>
+      <div n="13" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0013/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f013-c01" xml:id="u-f013-c01">煞禀陽陰造化之机運日月精華之妙修合而成故曰羔丸煉</ab>
+          <ab type="body" n="f013-c02" xml:id="u-f013-c02">升必須齋戒沐浴擇一潔净之所誠心修煉不許雞犬相聞婦女</ab>
+          <ab type="body" n="f013-c03" xml:id="u-f013-c03">窺見將來市人治病方可治病願勿輕視但弟羔葯有病來</ab>
+          <ab type="body" n="f013-c04" xml:id="u-f013-c04">取者隨症按穴貼上用鞋底烤熱熨上七七四十九遍能醫男</ab>
+          <ab type="body" n="f013-c05" xml:id="u-f013-c05">子諸般雜症婦人胎前産後安胎種子調養氣血安和榮衛</ab>
+          <ab type="body" n="f013-c06" xml:id="u-f013-c06">真來為之魁首也此藥貼住上可寬胸快膈下可調和脾胃</ab>
+          <note type="editorial">六欄，頭字「煞」接 f012「七十二地」。紙面四道水平摺痕，左外緣有水痕。各欄右側點墨，03 的「弟」偏右。</note>
+          <note type="editorial">疑讀　01「机」及「禀」原狀近俗字。「羔」與前幅同形，文義可能借為「膏」。02「净」右首減筆。06「真來為」按字形，第二字低淡。</note>
+        </div>
+      </div>
+      <div n="14" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0014/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f014-c01" xml:id="u-f014-c01">有積消積有痞消痞有痰消痰有火清火走馬立效凡有要</ab>
+          <ab type="body" n="f014-c02" xml:id="u-f014-c02">羔葯者只管上前勿得礙口人過留名鴈過留看人過不留</ab>
+          <ab type="body" n="f014-c03" xml:id="u-f014-c03">名不知張王李趙鴈過不留聲不知春夏秋冬無事者請站</ab>
+          <ab type="body" n="f014-c04" xml:id="u-f014-c04">兩試看何如話說不明猶如暗箭傷人弟在貴境塲上有一位</ab>
+          <ab type="body" n="f014-c05" xml:id="u-f014-c05">老尊年上前說道你的羔丹丸散或是施送或是要錢弟此時</ab>
+          <ab type="body" n="f014-c06" xml:id="u-f014-c06">言道我乃貧民百姓如何敢言施送二字亦不過積陰功半積德</ab>
+          <note type="editorial">六欄，外緣有斑漬，正文至少三筆旁記或補讀。04 欄首「兩」與粗直筆重疊。</note>
+          <note type="editorial">圖上附記　失禮上〔疑〕　02「口」「人」「過」右，y1150–1361 三小字與下方勾筆。</note>
+          <note type="editorial">圖上附記　半〔疑〕　06「過」「積」右，y1803–1900 一小字，可能為補旁。</note>
+          <note type="editorial">圖上附記　養身　06「積德」右，y2140–2330 兩字。</note>
+          <note type="editorial">疑讀　02「留看」第二字原形像「看」，與下一欄「留聲」比對仍異。03「站」下見兩短點，未折為重文。06「功」後一字直畫過橫，暫讀「半」。</note>
+        </div>
+      </div>
+      <div n="15" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0015/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f015-c01" xml:id="u-f015-c01">該當所得謝礼的取个謝礼也無害於是取不起謝礼也是君</ab>
+          <ab type="body" n="f015-c02" xml:id="u-f015-c02">子務本謝礼不取葯本要的那一位老尊年言道我家有心疼</ab>
+          <ab type="body" n="f015-c03" xml:id="u-f015-c03">病先生市我治好痞弟此時言道不怕他請過先生吃藥不效</ab>
+          <ab type="body" n="f015-c04" xml:id="u-f015-c04">用方不灵費小無數不能好的只管與我傳來弟有本事治</ab>
+          <ab type="body" n="f015-c05" xml:id="u-f015-c05">好受謝古人云知音說市知音聽不是知音莫市談古言</ab>
+          <ab type="body" n="f015-c06" xml:id="u-f015-c06">道天市人合体天有日月而人有兩目天有東南西北人</ab>
+          <note type="editorial">六欄，數個「弟」以小字偏欄右。末欄「而人有」的「人」亦偏右，依句內小字照入；欄旁墨點。首字與 f014「積德」下文相接。</note>
+          <note type="editorial">疑讀　03、05、06 書手作「市」形，疑是多處「與／和／替」之俗借，保留形讀。03「好痞」的宀部不清。04「費小」次字三筆。05「聽」下字按正文續讀。</note>
+        </div>
+      </div>
+      <div n="16" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0016/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f016-c01" xml:id="u-f016-c01">人有五官百骸天有金木水火土而人有心肝脾肺腎天有十万</ab>
+          <ab type="body" n="f016-c02" xml:id="u-f016-c02">千星斗而人有十万八千毫毛故人為一小天</ab>
+          <ab type="body" n="f016-c03" xml:id="u-f016-c03">凡人有病皆因漏洩真陽酒色太過元氣所傷漸成襍症男子有</ab>
+          <ab type="body" n="f016-c04" xml:id="u-f016-c04">十漏而女子有崩醫家有十全三德一要識字二要變通運氣三要</ab>
+          <ab type="body" n="f016-c05" xml:id="u-f016-c05">熟察浮沉遲數四要知脉虚実五要勿傷犯物六要知葯性温</ab>
+          <ab type="body" n="f016-c06" xml:id="u-f016-c06">凉七要炮熬煮灸八要審察精詳九要禮貌恭敬十要知人的心事</ab>
+          <note type="editorial">六欄，02 欄以「天」提前收束、下方空白。上緣小剝缺，右下頁角鈍缺，欄旁墨點不均。</note>
+          <note type="editorial">疑讀　01 欄首「人」接先幅「北人」，保留重出。03「襍」左邊衣旁似。05「犯物」沿形讀。06「炮熬煮灸」末字火旁上近久。</note>
+        </div>
+      </div>
+      <div n="17" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0017/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f017-c01" xml:id="u-f017-c01">此乃十全也</ab>
+          <ab type="body" n="f017-c02" xml:id="u-f017-c02">遍遊海角把口誇處明公是一家識得神農真妙訣平生濟</ab>
+          <ab type="body" n="f017-c03" xml:id="u-f017-c03">世作生涯想昔日公冶長老先生閒步花園見從空飛來一隻大</ab>
+          <ab type="body" n="f017-c04" xml:id="u-f017-c04">鴈站在塘峽之上又見從空來飛一隻小燕立在那柳樹稍頭那公冶</ab>
+          <ab type="body" n="f017-c05" xml:id="u-f017-c05">長老先生能識鳥音見二鳥口吐人言所得明白那小燕問道大鴈</ab>
+          <ab type="body" n="f017-c06" xml:id="u-f017-c06">哥你身透腿粗飛騰海角有何好處連問數声大鴈不答小燕</ab>
+          <note type="editorial">六欄，01 僅「此乃十全也」，下有反透，02 轉韻語及公冶長故事。全幅黑點及背透明顯。</note>
+          <note type="editorial">圖上附記　四　02「遊」「海」之間偏右小字，約 x1110–1173、y439–495。</note>
+          <note type="editorial">疑讀　02「處」下雙點可能重文。04「塘峽」次字山旁見；倒序「從空來飛」照原。06「身透」「腿」前後之形未全定。</note>
+        </div>
+      </div>
+      <div n="18" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0018/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f018-c01" xml:id="u-f018-c01">曰大鴈哥我問數声你然何不能答言這等輕慢於我大鴈曰你何</ab>
+          <ab type="body" n="f018-c02" xml:id="u-f018-c02">好處小燕曰我吃的珍饈美味住的是龍樓鳳閣間來繡女房中</ab>
+          <ab type="body" n="f018-c03" xml:id="u-f018-c03">頑耍問來時雲端裏高飛大鴈曰汝可知仁義禮智信否小燕曰道</ab>
+          <ab type="body" n="f018-c04" xml:id="u-f018-c04">也不知願聞其詳大鴈曰我不食虫蟻全我仁也不遭蹋人間五谷</ab>
+          <ab type="body" n="f018-c05" xml:id="u-f018-c05">全我義也行動我讓長者前飛全我禮也自幼失群終身不配全</ab>
+          <ab type="body" n="f018-c06" xml:id="u-f018-c06">我智也小畜生口食百虫矢了你的信遭蹋五谷矢了你的義行動</ab>
+          <note type="editorial">六欄，右中緣水漬。屢見濃墨點，05 欄中「飛」「全」偏右另有疊墨，欄左緣見鄰葉散點。</note>
+          <note type="editorial">圖上附記　〔墨塗〕　05「飛」「全」之間右側，約 x377–460、y1195–1378，粗墨蓋筆，殘形未定。</note>
+          <note type="editorial">疑讀　01「然何」、03「問來時」、06「矢了」均依形；語義或可另斷。04、06 第一字似「遭」，故保留「遭蹋」。</note>
+        </div>
+      </div>
+      <div n="19" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0019/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f019-c01" xml:id="u-f019-c01">不讓長者前飛矢了你的礼朝失偶而暮配矢了你的智來則有</ab>
+          <ab type="body" n="f019-c02" xml:id="u-f019-c02">名去則無声矢了你的信小畜生連五常都不知道敢在近前講話</ab>
+          <ab type="body" n="f019-c03" xml:id="u-f019-c03">那大鴈罵得小燕口吐鮮血墜落池塘而死那公冶長老先生在傍見</ab>
+          <ab type="body" n="f019-c04" xml:id="u-f019-c04">此情由即呌書童拏文房四寶來題詩在粉壁牆上詩曰鴈燕</ab>
+          <ab type="body" n="f019-c05" xml:id="u-f019-c05">池塘鬧声喧不分大小論争端大雁空中飛氣露小燕墜落池塘</ab>
+          <ab type="body" n="f019-c06" xml:id="u-f019-c06">边一般皆長林中鳥愚者愚來賢者賢飛禽尚且知仁義礼智信</ab>
+          <note type="editorial">六欄，左外緣水漬及散墨。04 後半起詩，05、06 多空圈，01–04 多墨點。</note>
+          <note type="editorial">疑讀　01「朝失偶」之「失」與前後「矢」有近形。05「飛氣露」中間作「氣」，末雨頭可見。06「長林」依圖字序。</note>
+        </div>
+      </div>
+      <div n="20" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0020/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f020-c01" xml:id="u-f020-c01">為人何不礼当先知音說與知音听不識知音莫與談</ab>
+          <ab type="body" n="f020-c02" xml:id="u-f020-c02">凡眼目疼痛不得一様症七十二眼系五輪八廓內分隂陽肝胆相</ab>
+          <ab type="body" n="f020-c03" xml:id="u-f020-c03">照受五脏六腑之華盖為人一身之主宰眼珠系於肝虚則迎丰</ab>
+          <ab type="body" n="f020-c04" xml:id="u-f020-c04">流泪瞳人系於腎虚冷泪交流小眼角系於心虚則血母背</ab>
+          <ab type="body" n="f020-c05" xml:id="u-f020-c05">瞳白眼珠系於肺虚則生膜上眼皮系於胃下眼皮系於脾</ab>
+          <ab type="body" n="f020-c06" xml:id="u-f020-c06">胃皆虚則拳毛倒提故眼分五行金木水火土古人云天凴日月</ab>
+          <note type="editorial">六欄，01 接上幅禽鳥故事；02 另起「凡眼目疼痛」。04、05、06 近字右有雙點，可能標重文，本文列可見單字。左下摺線。</note>
+          <note type="editorial">疑讀　03 欄末「丰」形貫豎，可能借書「風」；04 末「血母背」字義未定，「背」以下半月形暫讀；06「拳毛」首字折筆像拳，「凴」下部有几形。</note>
+        </div>
+      </div>
+      <div n="21" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0021/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f021-c01" xml:id="u-f021-c01">人凴眼目視萬物察秋毫無所不至天無日月沌混不明人無眼</ab>
+          <ab type="body" n="f021-c02" xml:id="u-f021-c02">目寸歩難行日月有時而晦者風雲雷電之所致也眼之有時</ab>
+          <ab type="body" n="f021-c03" xml:id="u-f021-c03">矢者四氣七情之所害也不怕內服明目散外點紫金丹不能見</ab>
+          <ab type="body" n="f021-c04" xml:id="u-f021-c04">效只管與弟傳來即時見效不枉弟在貴郡有朴雲観目之</ab>
+          <ab type="body" n="f021-c05" xml:id="u-f021-c05">能列位明公遺留醫中不得一様人有葯個有方当表</ab>
+          <ab type="body" n="f021-c06" xml:id="u-f021-c06">則表当裏則裏一要能知隂陽二氣二要知其寒熱温凉</ab>
+          <note type="editorial">六欄，續論眼目。左緣水漬，末欄 05、06 之間有格網狀紙紋或印痕，無成字。墨點與雙點較多。</note>
+          <note type="editorial">疑讀　01「沌混」字序原然。03 起字「矢」近「失」。04「朴雲観目」項內暫讀，末兩字左部不明。05「人」「個」下有雙點，保留可見字形。</note>
+        </div>
+      </div>
+      <div n="22" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0022/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f022-c01" xml:id="u-f022-c01">三要知其浮沉遲數四要知其望聞問捏現其形察其色知</ab>
+          <ab type="body" n="f022-c02" xml:id="u-f022-c02">其脏腑雜症自当時神農嘗百草知其四時寒熱温平</ab>
+          <ab type="body" n="f022-c03" xml:id="u-f022-c03">軒轅皇帝素問扁鵲能治內外調理隂陽太乙雷公炮製葯</ab>
+          <ab type="body" n="f022-c04" xml:id="u-f022-c04">性能有起死回生之功王叔和脉訣流傳張仲景專論傷</ab>
+          <ab type="body" n="f022-c05" xml:id="u-f022-c05">寒百發百中孫真人龍伏虎有海外通經之理醫道無窮講之</ab>
+          <ab type="body" n="f022-c06" xml:id="u-f022-c06">不盡像咳嗽不得一様書上說得明白咳是咳嗽是嗽有声</ab>
+          <note type="editorial">六欄，右中緣有褐漬，少數欄有墨點。01 接 f021 歷述醫者所要。</note>
+          <note type="editorial">疑讀　01「捏」與常語「切」有別，原形含手旁按形記。03「太乙」次字近乙。05「真人龍」的「人」兩撇與下「龍」相近。</note>
+        </div>
+      </div>
+      <div n="23" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0023/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f023-c01" xml:id="u-f023-c01">有声無痰謂之嗽咳有痰無声謂嗽有痰有声謂之咳嗽咳嗽原</ab>
+          <ab type="body" n="f023-c02" xml:id="u-f023-c02">來十八般皆因酒色市風寒大腸咳嗽喉嚨痛小腸咳嗽口舌干膀胱</ab>
+          <ab type="body" n="f023-c03" xml:id="u-f023-c03">咳嗽週身冷胃上咳嗽有停痰故尔未曾修裡葯先明吐出五色痰行</ab>
+          <ab type="body" n="f023-c04" xml:id="u-f023-c04">痰心火盛青痰病在肝白痰傷肺腑脾困吐黃痰黑痰傷腎水勞</ab>
+          <ab type="body" n="f023-c05" xml:id="u-f023-c05">碌是根源若還不分晝夜咳潮熱不止謂之咳嗽這就是五勞七</ab>
+          <ab type="body" n="f023-c06" xml:id="u-f023-c06">傷內經書上說得明白貪財過度謂之心勞淫慾矢節謂之腎</ab>
+          <note type="editorial">六欄，欄面墨色時淡，首欄中下部有偏欄小字。左外緣及頁底濕痕。</note>
+          <note type="editorial">圖上附記　之　01「謂」「嗽」之間偏右，約 y1400–1465。</note>
+          <note type="editorial">疑讀　03 末「行」形雙人旁；04 開頭「痰」字畫與前相續，可能為另一起語。06「矢節」據直筆及斜筆，文義可能是「失節」。</note>
+        </div>
+      </div>
+      <div n="24" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0024/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f024-c01" xml:id="u-f024-c01">勞碌所傷謂之肝酒色所傷謂之肺飢飽食積謂之脾此</ab>
+          <ab type="body" n="f024-c02" xml:id="u-f024-c02">乃五勞何為七傷多走必傷於筋坐多必傷於血睡多必傷於骨</ab>
+          <ab type="body" n="f024-c03" xml:id="u-f024-c03">立多必傷於肉話多必傷於神久思傷心淫多傷精此乃七傷若</ab>
+          <ab type="body" n="f024-c04" xml:id="u-f024-c04">不早治日久根深面似桃花染渾身似枯柴若還轉到此症不要</ab>
+          <ab type="body" n="f024-c05" xml:id="u-f024-c05">說明醫不好你是神仙也難療何為五積內經書上說得白人</ab>
+          <ab type="body" n="f024-c06" xml:id="u-f024-c06">吃五谷焉能不生病飲不飲食不食飲食飲食不中其節生冷過</ab>
+          <note type="editorial">六欄，首字「勞」承前幅「腎」。01「勞」與 05「醫」下有雙點。右緣水漬，左下離底有指狀褐痕。</note>
+          <note type="editorial">疑讀　05「明醫」依圖，句子可別斷。06「飲不飲食不食飲食飲食」有重寫，按欄照錄。</note>
+        </div>
+      </div>
+      <div n="25" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0025/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f025-c01" xml:id="u-f025-c01">度宿食不均積在於胃日久不治遂成他症積聚之病不得一様酒</ab>
+          <ab type="body" n="f025-c02" xml:id="u-f025-c02">積心口作痛食積反飽饋雜氣積兩脇作脹虫積滿腹作痛水積</ab>
+          <ab type="body" n="f025-c03" xml:id="u-f025-c03">四肢黄腫積在於肺咳嗽吐痰聚在腎兩耳不鳴聚大腸風下血</ab>
+          <ab type="body" n="f025-c04" xml:id="u-f025-c04">聚在小腸小便赤澀聚在膀胱五淋白濁聚在三焦五心必潮熱積</ab>
+          <ab type="body" n="f025-c05" xml:id="u-f025-c05">者五脏之所使六聚者六腑之所成</ab>
+          <ab type="body" n="f025-c06" xml:id="u-f025-c06">夜夢遺精之病總由其人淫心太重日見佳人美女淫慾在心朝思暮</ab>
+          <note type="editorial">六欄，05 較短，下方有反透；06 另起夜夢遺精。左緣及欄底有褐、灰漬。</note>
+          <note type="editorial">圖上附記　五　04 欄末「積」之右偏上，約 y2245–2300，可能補成「五積者」。</note>
+          <note type="editorial">疑讀　02「飽饋」次字首近食旁。03「不鳴」首一橫斜撇明顯，仍待檢。04「澀」結構見水旁與雙止。</note>
+        </div>
+      </div>
+      <div n="26" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0026/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f026-c01" xml:id="u-f026-c01">想一旦三日久積於丹田丹田主脉能上至頂門泥元宮下至海底湧泉穴</ab>
+          <ab type="body" n="f026-c02" xml:id="u-f026-c02">所內經書上說得明白積上一分謂之遺精積下一分名為生炉香故</ab>
+          <ab type="body" n="f026-c03" xml:id="u-f026-c03">尔夜夢遺精事好教君家總不知日見佳人美夜與鬼交妻一點真情處</ab>
+          <ab type="body" n="f026-c04" xml:id="u-f026-c04">好似雨淋衣三六逢九數着氣血低者還得此病急早請明医倘若</ab>
+          <ab type="body" n="f026-c05" xml:id="u-f026-c05">你不治日久更痰咳嗽氣喘就不能治了</ab>
+          <ab type="body" n="f026-c06" xml:id="u-f026-c06">水腫之病不得一様書上說得明白水腫之病出乎脾時医不知扎壊腱</ab>
+          <note type="editorial">六欄，05 較短；06 另起水腫。右緣有水痕，05 欄下及底部淡青反透。</note>
+          <note type="editorial">疑讀　02 開首「所內」及尾「生炉香」依形暫記。03「交妻」次字有女形。04「着」下三小點另見，是否重文未定。06 末三字受墨淡與頁邊影響，先記「扎壊腱」，接 f027 開頭上下文。</note>
+        </div>
+      </div>
+      <div n="27" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0027/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f027-c01" xml:id="u-f027-c01">腎水脾土兩要固脾土一虧水無達泛溢併流四肢去使人浮腫放光輝</ab>
+          <ab type="body" n="f027-c02" xml:id="u-f027-c02">風腫氣腫併血腫陽水隂水也雖知風腫走注皮麻木氣腫隨氣消長之血</ab>
+          <ab type="body" n="f027-c03" xml:id="u-f027-c03">腫之病如何治皮間赤縷血痕兜陽水身熱隂水冷利水和脾總治</ab>
+          <ab type="body" n="f027-c04" xml:id="u-f027-c04">之木香流氣当先識陽水身熱八正散隂水身凉胃苓奇水腫通</ab>
+          <ab type="body" n="f027-c05" xml:id="u-f027-c05">用牛黄散香平散子世間稀有這宗病腫不怕他單扇門進</ab>
+          <ab type="body" n="f027-c06" xml:id="u-f027-c06">不得双扇出不得或三年五載吃過張大夫些葯不效李</ab>
+          <note type="editorial">六欄，續前幅水腫、問答，左側褐漬及上下散墨。</note>
+          <note type="editorial">疑讀　01「無達」次字可見走之及羊狀。03「血痕兜」末形可能是訛／借字。04「胃苓奇」第三字暂依形，可能「散」之訛。06 張大夫下有數筆上挑，以「些」存疑。</note>
+        </div>
+      </div>
+      <div n="28" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0028/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f028-c01" xml:id="u-f028-c01">大夫官葯不灵只管市弟傳來我將羔葯貼住用黄土炒熱往下</ab>
+          <ab type="body" n="f028-c02" xml:id="u-f028-c02">熨三次一時間肚內作响即刻就消將下來那時方纔見效夫妙方</ab>
+          <ab type="body" n="f028-c03" xml:id="u-f028-c03">像這打擺子之症前有一位老尊年上前問道我有一姪擺子打了一</ab>
+          <ab type="body" n="f028-c04" xml:id="u-f028-c04">年前日請一先生也是調治不好那先生說道這擺子五個鬼冷來</ab>
+          <ab type="body" n="f028-c05" xml:id="u-f028-c05">有個交水鬼熱來有個燒火鬼頭痛有個打頭鬼身痛有個抽觔</ab>
+          <ab type="body" n="f028-c06" xml:id="u-f028-c06">鬼戰來有个搖床鬼弟听得哈大笑弟此時言道未必閻王市</ab>
+          <note type="editorial">六欄，03 起「打擺子」問答，02 末有雙排窄字。敘述多為俗語、病人聲稱與鬼怪稱呼。</note>
+          <note type="editorial">圖上附記　顯得弟功　02「見效」後偏右，與偏左「夫妙方」併排，約 y2090–2395。可連讀「顯得弟功夫妙方」，合稿時待覆。</note>
+          <note type="editorial">疑讀　01「官」字形似宀中雙口，先留。03 開頭像、象有疊筆。06「哈」下有似重文的曲鉤。</note>
+        </div>
+      </div>
+      <div n="29" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0029/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f029-c01" xml:id="u-f029-c01">他有仇打開鬼門関放此鬼出來独害他不成書上說得明白夏傷</ab>
+          <ab type="body" n="f029-c02" xml:id="u-f029-c02">於暑秋發瘧邪風正氣相交作又因飲食不調勻生冷停痰寒熱搏</ab>
+          <ab type="body" n="f029-c03" xml:id="u-f029-c03">先寒後熱寒瘧復先熱後寒温瘧作更有單熱而寒此症名之為</ab>
+          <ab type="body" n="f029-c04" xml:id="u-f029-c04">瘴瘧一日一發容易治兩日三日難捉摸治法消暑市除痰先服柴苓</ab>
+          <ab type="body" n="f029-c05" xml:id="u-f029-c05">湯最確次用截瘧鬼哭丹青脾飲子尋常瘧無食不成擺</ab>
+          <ab type="body" n="f029-c06" xml:id="u-f029-c06">子無積不成痰原非鬼亦非神寒痰並冷水熱來好似火上睡冷</ab>
+          <note type="editorial">六欄，續辨擺子和瘧，見病因推測及口服方名。左側外緣水漬、頁底淡青斑。</note>
+          <note type="editorial">疑讀　03「單熱而寒」按現存筆序。05 末段「瘧無食」附近兩字墨淡，下見「無」四點。</note>
+        </div>
+      </div>
+      <div n="30" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0030/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f030-c01" xml:id="u-f030-c01">來好似冷水交發來發去發成一塊痞子痞散而成肚大青筋倘</ab>
+          <ab type="body" n="f030-c02" xml:id="u-f030-c02">有這宗病症市弟傳來將羔葯貼住燃香不過一炷快馬不上</ab>
+          <ab type="body" n="f030-c03" xml:id="u-f030-c03">五里即時呌他止住總算得弟的羔葯有效</ab>
+          <ab type="body" n="f030-c04" xml:id="u-f030-c04">又有中寒之病書上說得明白中寒之病腎為根腎氣空虚</ab>
+          <ab type="body" n="f030-c05" xml:id="u-f030-c05">寒易侵氣弱体虚調護失乘凉臥地也傷人四肢厥冷俱僵真</ab>
+          <ab type="body" n="f030-c06" xml:id="u-f030-c06">腹痛昏迷口失音治法只宜温散葯無過五積理中尋還有</ab>
+          <note type="editorial">六欄，03 短欄結束上一病例，04 轉中寒。右角及外緣有兩塊褐漬，右下角青灰斑。</note>
+          <note type="editorial">疑讀　01「交」見交叉，可疑「浸」等近音詞。「青筋」皆見。05「俱僵真」尾字十具形，暫照形。</note>
+        </div>
+      </div>
+      <div n="31" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0031/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f031-c01" xml:id="u-f031-c01">中暑之病書上說得明白傷寒做出百般病人心胞絡市胃應胃氣稍</ab>
+          <ab type="body" n="f031-c02" xml:id="u-f031-c02">虚胃暑行暑入口牙心則病口渴心煩暑悶沉或為吐瀉熱不定四</ab>
+          <ab type="body" n="f031-c03" xml:id="u-f031-c03">肢厥冷脉為虚身体但無疼痛病驅暑和中二事先香茹五苓堪</ab>
+          <ab type="body" n="f031-c04" xml:id="u-f031-c04">立應常服六合湯最宜外熱內寒理中正</ab>
+          <ab type="body" n="f031-c05" xml:id="u-f031-c05">凡有中湿之病書上說得明白問君何以之中湿染於杳冥不自識非專</ab>
+          <ab type="body" n="f031-c06" xml:id="u-f031-c06">雨水是湿根天氣地氣汗氣湿中人身体覺沉重骨肉疼麻行不</ab>
+          <note type="editorial">六欄，04 為短欄，05 起中濕；左邊水痕、摺褶及局部下邊纖維破損。</note>
+          <note type="editorial">疑讀　01「胞絡」月旁由墨色辨。02「牙」近牙形，前後還可另斷。03 香「茹」原有口形，保留。05「杳冥」第一字有木日二部，仍待回圖。</note>
+        </div>
+      </div>
+      <div n="32" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0032/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f032-c01" xml:id="u-f032-c01">疼漸加浮腫及身黄治法利便除身湿五苓除湿滲湿先加减消</ab>
+          <ab type="body" n="f032-c02" xml:id="u-f032-c02">詳用五積又有風湿腰腿疼獨活寄生湯可食</ab>
+          <ab type="body" n="f032-c03" xml:id="u-f032-c03">還有中風之症書上說得明白中風之症多般類偏枯風痱並風</ab>
+          <ab type="body" n="f032-c04" xml:id="u-f032-c04">並風痺四者本因邪中人心肝脾肺腎半身不遂肉頑麻不知人事昏</ab>
+          <ab type="body" n="f032-c05" xml:id="u-f032-c05">沉睡手足抽掣痰涎壅榮衛隂虚所由致治法順氣與疏風烏葯</ab>
+          <ab type="body" n="f032-c06" xml:id="u-f032-c06">順氣当先識小續命湯排風湯甚者三星飲為最</ab>
+          <note type="editorial">六欄。02 短欄，03 另起中風。上右兩處濕跡，右緣磨缺，首尾有散點。</note>
+          <note type="editorial">疑讀　01 首字「疼」接上幅末字「不」，同形也可讀「痰」，結合字形仍待二校。02「詳」水旁似而不穩。04 原欄起重複「並風」；05「疏」左側近言形，暫釋。</note>
+        </div>
+      </div>
+      <div n="33" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0033/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f033-c01" xml:id="u-f033-c01">又有秋天諸般痢症其症有八何為八痢噤口痢休息痢湿痢風痢</ab>
+          <ab type="body" n="f033-c02" xml:id="u-f033-c02">赤痢白痢黑痢五色痢只因外受風寒暑湿熱氣內因不戒飲食生</ab>
+          <ab type="body" n="f033-c03" xml:id="u-f033-c03">冷白痢傷氣赤痢傷血寒痢微痛熱痢窘痛實墜盡前書上說得明</ab>
+          <ab type="body" n="f033-c04" xml:id="u-f033-c04">白問君何故而成痢盖因積物並氣滯物欲出時氣不行脾胃不和</ab>
+          <ab type="body" n="f033-c05" xml:id="u-f033-c05">飲食致夏月過食生冷多及至秋來皆如是單白單赤兼赤白医</ab>
+          <ab type="body" n="f033-c06" xml:id="u-f033-c06">者只將三則治單紅熱單白寒冷热不和兼赤白紅痢解毒並香</ab>
+          <note type="editorial">六欄，論秋日痢疾。上緣及外緣有小片剝缺，字墨部分偏淡，外緣及書口有墨點。</note>
+          <note type="editorial">疑讀　03「實墜盡」三字原形待覆。05 末「医」古俗形，06 末「香」字形清楚並與 f034 首字其義連續。</note>
+        </div>
+      </div>
+      <div n="34" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0034/canvas">
+        <div type="surface" n="whole">
+          <ab type="body" n="f034-c01" xml:id="u-f034-c01">蘼枳殻棱莪三用得參苓白术加木香久痢不止還堪啜我有</ab>
+          <ab type="body" n="f034-c02" xml:id="u-f034-c02">神仙換骨丹一服當先功莫測</ab>
+          <ab type="colophon" n="f034-n01" xml:id="u-f034-n01">光緒七年七月初六日鑑〔疑〕黃氏抄</ab>
+          <ab type="small-writing" n="f034-n02" xml:id="u-f034-n02">万〔疑〕</ab>
+          <note type="editorial">右側兩欄收束正文，左側另有異體大字抄記。右外緣和底緣破損，中央下方多處藍灰滲墨兼摺痕。</note>
+          <note type="editorial">疑讀　正文 01 欄首草下有鹿與米狀連筆，暫作「蘼」，f033 跨幅前字「香」。同欄「棱莪三」沿圖面字序。抄記「鑑」金旁、右下皿可見，右上有兩斜筆，也可能是「鎰」。小字「万」與下字之接合待覆。</note>
+        </div>
+      </div>
+      <div n="35" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0035/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">白色後護葉，主面無可識墨字。右側有前頁褐紙窄邊，頁底橫摺紋明顯。</note>
+        </div>
+      </div>
+      <div n="36" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0036/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">白色後護葉反面，主面無可識墨字。左側相鄰褐紙窄邊，白紙有多道斜褶與橫皺。</note>
+        </div>
+      </div>
+      <div n="37" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0037/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">褐色後封裡，近右側書口露白紙窄邊。褐色主面無可識墨字，僅散佈紙纖維及少許點斑。</note>
+        </div>
+      </div>
+      <div n="38" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0038/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">褐色封底外面，左緣有四個線裝穿線位置，白線沿書脊上下相接。上左有黃褐圓斑，主面無可識文字。</note>
+        </div>
+      </div>
+      <div n="39" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/3348761158-0039/canvas">
+        <div type="surface" n="whole">
+          <note type="editorial">與 f005 同一原頁，這幅截去頁首符形，左下角紙缺、橫摺、欄文及墨圈相合。中央覆 24 格色卡、尺及解析力標靶，右半為淺色空紙。照 f005 的正式六欄定位索引。</note>
+          <note type="editorial">圖上附記　Staatsbibliothek zu Berlin / Preußischer Kulturbesitz　色卡現代攝影識別牌三行，約 x445–1000、y1395–1565。圖中另見釐米直尺及解析力標靶。</note>
+          <note type="editorial">圖上附記　〔疊紙殘筆〕　對應 f005 第 06 欄「緣」左下，約 x0–167、y2172 至底邊，重拍揭出一組下層筆跡，末近「主」，歸層及讀法待核。</note>
+          <note type="editorial">對圖　f039 上緣仍見 f005 六欄各欄欄首。右一「三皇治」、右二「主免得」、右三「下連十」、右四「病有四」、右五「醫癆癆」、右六「真近來」，以及左下「遇倒」與「有緣」，足以定位同頁。</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2259 @@
+{
+  "metadata": {
+    "dataset_title": "〔成都鈴醫書〕（1881 年抄記，柏林 Slg. Unschuld 8555） / Cheng du ling yi shu [An itinerant physician’s text from Chengdu]: Transcription Dataset",
+    "historical_title": "〔成都鈴醫書〕",
+    "historical_author": "著者未詳，館目關聯人物作萬鎰黃",
+    "source_id": "Slg. Unschuld 8555",
+    "source": "https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000",
+    "manifest": "https://content.staatsbibliothek-berlin.de/dc/3348761158/manifest",
+    "language": "lzh",
+    "version": "0.1.0",
+    "date": "2026-11-22",
+    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    },
+    "initial_sha256": "2b0f7812adc29c9c6c0b5b95e4f884fef9e700a12b8f7b314634bb3aa7d852b8"
+  },
+  "pages": [
+    {
+      "image": 1,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0001/canvas",
+      "label": " -  [1]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0001/canvas",
+      "sha256": "bfb1545f2d05bb548c49f3cea4e8a80575ca396408379b9a754bf26ea49269ee",
+      "scan_width": 1660,
+      "scan_height": 2601,
+      "dimensions": [
+        1660,
+        2601
+      ],
+      "writing_status": "封面",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "褐色單面，近右緣露四處線裝針腳。約 x775–1069、y1200–1295 灰墨書館藏號，字跡另列。",
+            "圖上附記　8555　館藏號"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 2,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0002/canvas",
+      "label": " -  [2]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0002/canvas",
+      "sha256": "e698c92daa945d9156af8d9b19e26fa61d16d8ed1098c385c43ba97953d09cfa",
+      "scan_width": 1461,
+      "scan_height": 2540,
+      "dimensions": [
+        1461,
+        2540
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "褐色前封裡，左側另見相鄰淡色窄紙條。主面無可識墨字。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 3,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0003/canvas",
+      "label": " -  [3]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0003/canvas",
+      "sha256": "b176d24d5db995acb303369813e4df025d1ad1fe69acc0ced921feaadac071f7",
+      "scan_width": 1431,
+      "scan_height": 2535,
+      "dimensions": [
+        1431,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "白色前護葉，右邊見褐色鄰頁窄邊，主面有斜摺及下緣皺摺。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 4,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0004/canvas",
+      "label": " -  [4]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0004/canvas",
+      "sha256": "543273773dbf3487220340423b5f4bc2b35dac112e1f0be084867c194e6895a6",
+      "scan_width": 1461,
+      "scan_height": 2540,
+      "dimensions": [
+        1461,
+        2540
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "白色前護葉反面。主面空白。左緣相鄰褐紙條約 y1000、1780 及更下方有切斷的墨曲筆，不成可識字。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 5,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0005/canvas",
+      "label": "r [5]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0005/canvas",
+      "sha256": "a53c661d46c8ff11daa7d0f0baa9d7bd0ca8a58cff09a9dd68eb29c55bc9b640",
+      "scan_width": 1431,
+      "scan_height": 2535,
+      "dimensions": [
+        1431,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f005-c01",
+              "role": "body",
+              "text": "三皇治世有人元陰陽二氣兩相傳坎離宮中保定",
+              "x_approx": 1280
+            },
+            {
+              "id": "f005-c02",
+              "role": "body",
+              "text": "主免得六慾共七慾眼竅通知忘絕相五脏六腑上",
+              "x_approx": 1065
+            },
+            {
+              "id": "f005-c03",
+              "role": "body",
+              "text": "下連十二重樓通關竅心猿意馬莫偷閑",
+              "x_approx": 842
+            },
+            {
+              "id": "f005-c04",
+              "role": "body",
+              "text": "病有四百四十症約有八百八十方只有五樣病難",
+              "x_approx": 619
+            },
+            {
+              "id": "f005-c05",
+              "role": "body",
+              "text": "醫癆癆氣膨膈閻王請下客此人少有病真醫不得",
+              "x_approx": 411
+            },
+            {
+              "id": "f005-c06",
+              "role": "body",
+              "text": "真近來醫家雖多總要遇倒之醫明理總要有緣",
+              "x_approx": 189
+            }
+          ],
+          "notes": [
+            "六欄。紙有水平折痕與外緣裂口，左下角斜缺切及末欄。此幅正文另有 f039 色卡重拍。",
+            "疑讀　02「免」「慾」「忘絕相」依字面暫讀。05「癆癆」首字疒內筆比次字不同，可能是「瘓」等另一字。「膨膈」兩字皆月旁，次字右部近冋形；「閻」門內可見三短橫，依此讀「閻王」。「下客」及近下緣「得」均待覆。06「遇倒」前後以原讀保留，末字「緣」下部有損。",
+            "圈點　多欄右側灰墨空圈，01 見「陰」「坎」旁，02 有「免」「眼」「五」旁，03 有「十」「心」「閑」右側，04 見「約」「方」旁，05 有「癆」「問」「此」「真」旁，06 有「近」「總」旁及末段散點。"
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "kind": "manuscript-symbol",
+          "description": "頁首 x855–1048、y87–249。方框略圓，內四圓筆，墨兼褐紅。形義未定。",
+          "x_approx": 954,
+          "bbox_xyxy_px_approx": [
+            855,
+            87,
+            1048,
+            249
+          ]
+        }
+      ],
+      "uncertainty": []
+    },
+    {
+      "image": 6,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0006/canvas",
+      "label": "v [6]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0006/canvas",
+      "sha256": "ffdd84cf09faec13427adce007825d29deb38ab3160c8e8e440f2d63dee98855",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f006-c01",
+              "role": "body",
+              "text": "無緣之人如中彎弓之鳥見曲木而高飛所以人",
+              "x_approx": 1199
+            },
+            {
+              "id": "f006-c02",
+              "role": "body",
+              "text": "隔肚皮飯甑隔木皮在台列位要想得明白弟胸中",
+              "x_approx": 980
+            },
+            {
+              "id": "f006-c03",
+              "role": "body",
+              "text": "無有実學也不敢擅遊江湖列位鄉親有逢前逢後",
+              "x_approx": 775
+            },
+            {
+              "id": "f006-c04",
+              "role": "body",
+              "text": "站立兩傍有賢愚不等昨日有一位老尊年上前來",
+              "x_approx": 560
+            },
+            {
+              "id": "f006-c05",
+              "role": "body",
+              "text": "問道先生你有心痛之葯否我與先生買些弟此時",
+              "x_approx": 349
+            },
+            {
+              "id": "f006-c06",
+              "role": "body",
+              "text": "言道要老尊年認得真那老尊年又問道甚麼針弟",
+              "x_approx": 128
+            }
+          ],
+          "notes": [
+            "六欄，與上幅意義連續。右外緣折裂，右下大斜缺。欄間有濃墨點。",
+            "疑讀　01 末「人」觸右下殘邊。02「飯甑」之下字右部几形，可能是方言同音字。03「実」下部連筆，保留所見俗形。「逢前逢後」的走之兩筆可見。06 末「弟」偏欄右，左下可見另一紙層淡墨，字未定。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 7,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0007/canvas",
+      "label": "r [7]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0007/canvas",
+      "sha256": "a1d3c11b9439d0279c90c14f25a2e360276e97427bbb767f4dc6bc9bf6e0cc15",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f007-c01",
+              "role": "body",
+              "text": "言道賣的是瓦針能治風湿麻木一身筋骨疼痛胃",
+              "x_approx": 1248
+            },
+            {
+              "id": "f007-c02",
+              "role": "body",
+              "text": "氣疼痞氣疼弟講與老尊年聽恐非真心痛若是真",
+              "x_approx": 1069
+            },
+            {
+              "id": "f007-c03",
+              "role": "body",
+              "text": "心痛早發夕死夕發早亡如三國蜀川之名將姓姜",
+              "x_approx": 837
+            },
+            {
+              "id": "f007-c04",
+              "role": "body",
+              "text": "名維字白約乃真心氣疼也此則無治矣心痛者有",
+              "x_approx": 617
+            },
+            {
+              "id": "f007-c05",
+              "role": "body",
+              "text": "九種氣痛內經書上講得明白有寒食攻心清氣不",
+              "x_approx": 430
+            },
+            {
+              "id": "f007-c06",
+              "role": "body",
+              "text": "能上升濁氣不能下降故二氣不能均分方可轉〔下緣殘〕",
+              "x_approx": 218
+            }
+          ],
+          "notes": [
+            "六欄，底緣斜切，左側欄字在底邊受損；開首「言道」接前幅末「弟」。",
+            "疑讀　01「瓦」針似「瓦」，保留。03 形作「蜀川」。04 字形作「白約」。05 末「不」下部截。06「轉」下有殘筆，形未定。",
+            "圈點　多欄右側不等距墨點，按原欄保留文字流，不移補句讀。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 8,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0008/canvas",
+      "label": "v [8]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0008/canvas",
+      "sha256": "c6b5e8083444fe6bfb99944fc0b28cb3e6c436b6b0de09be216391f99f8b1e8d",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f008-c01",
+              "role": "body",
+              "text": "九種氣痛停食在胃心酸日久不知根源如何分有",
+              "x_approx": 1185
+            },
+            {
+              "id": "f008-c02",
+              "role": "body",
+              "text": "個寒食氣疼熱氣疼冷氣疼穿心氣疼温氣",
+              "x_approx": 970
+            },
+            {
+              "id": "f008-c03",
+              "role": "body",
+              "text": "疼走氣疼稍氣疼膀胱氣疼螬氣疼渾身氣疼食積",
+              "x_approx": 783
+            },
+            {
+              "id": "f008-c04",
+              "role": "body",
+              "text": "氣痞塊作疼婦人則有胎氣疼血氣疼血癥血瘕作疼又",
+              "x_approx": 563
+            },
+            {
+              "id": "f008-c05",
+              "role": "body",
+              "text": "有氣血流入肺經肺乃清虛之腑故曰藏魂氣虛者運化不",
+              "x_approx": 369
+            },
+            {
+              "id": "f008-c06",
+              "role": "body",
+              "text": "平血枯者道路閉塞又恐氣虛生痰血虛生火故尔",
+              "x_approx": 167
+            }
+          ],
+          "notes": [
+            "六欄，接前幅論九種氣痛。右上、右緣與底緣有缺損，多欄旁黑點。",
+            "疑讀　03 同列「稍」「螬」左部各近禾、虫，「渾」水旁墨弱。04「痞」或「痦」。06「平」一豎貫底，末字作「尔」。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 9,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0009/canvas",
+      "label": "r [9]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0009/canvas",
+      "sha256": "4a5816725344137362a6ad1cda81cc38cc01e5df799bb363e5565d7ec0e0e62c",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f009-c01",
+              "role": "body",
+              "text": "咳嗽之症弟初到貴境話不說不鼓不打不响說話說與知人",
+              "x_approx": 1248
+            },
+            {
+              "id": "f009-c02",
+              "role": "body",
+              "text": "送飯送與飢寶劍賜烈士紅粉賜與佳人水有源頭木有",
+              "x_approx": 1048
+            },
+            {
+              "id": "f009-c03",
+              "role": "body",
+              "text": "根為人豈可無根本弟欲多說上几句話來列位道我是賣",
+              "x_approx": 858
+            },
+            {
+              "id": "f009-c04",
+              "role": "body",
+              "text": "當的欲得不說又怎賢愚不等近有狂詐之徒說白扯",
+              "x_approx": 644
+            },
+            {
+              "id": "f009-c05",
+              "role": "body",
+              "text": "謊假意口傳單方不分四十八節之病弄假成真看病",
+              "x_approx": 449
+            },
+            {
+              "id": "f009-c06",
+              "role": "body",
+              "text": "不分表裏陰陽用葯不知補瀉宣通滯滑燥湿輕重",
+              "x_approx": 224
+            }
+          ],
+          "notes": [
+            "六欄，左下折角與上緣小損，濃墨點遍欄。右一、右二均有字偏欄右。",
+            "圖上附記　明　補字，在 01「話不說不」末「不」右，y1360–1467。",
+            "圖上附記　人　補字，在 02「飢」右下，y741–851，補讀「送與飢人」。",
+            "疑讀　01「弟」位在「症」下偏右，與句順相連。04「狂詐」首字左旁略淡。06「滯」水旁內形難分。"
+          ]
+        }
+      ],
+      "illustrations": [
+        {
+          "kind": "manuscript-symbol",
+          "description": "頁首約 x878–1048、y71–242，墨色四圓及方框，內帶紅筆。與 f005 頁首圖形相近。",
+          "x_approx": 965,
+          "bbox_xyxy_px_approx": [
+            878,
+            71,
+            1048,
+            242
+          ]
+        }
+      ],
+      "uncertainty": []
+    },
+    {
+      "image": 10,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0010/canvas",
+      "label": "v [10]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0010/canvas",
+      "sha256": "d9cb70fdf33f809dc7bb18918e2c4adb1c5c0433020a1be95a46d2b4a83e5c2c",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f010-c01",
+              "role": "body",
+              "text": "之劑故此誤人吾現這等之人只有醫道之名無有醫之",
+              "x_approx": 1186
+            },
+            {
+              "id": "f010-c02",
+              "role": "body",
+              "text": "實是人不知分清濁誤被哄誠請去治病費〔墨塗〕了主家",
+              "x_approx": 980
+            },
+            {
+              "id": "f010-c03",
+              "role": "body",
+              "text": "許多銀錢並無毫厘效驗及至其病纒日久沉重困",
+              "x_approx": 778
+            },
+            {
+              "id": "f010-c04",
+              "role": "body",
+              "text": "危故此誤人大事日後倘來外有高明先生請治療疾",
+              "x_approx": 573
+            },
+            {
+              "id": "f010-c05",
+              "role": "body",
+              "text": "又恐怕從前先生一様狐疑不决如彎弓之鳥見曲",
+              "x_approx": 369
+            },
+            {
+              "id": "f010-c06",
+              "role": "body",
+              "text": "木而高飛正是前人撒土〔瞞疑〕壞後人眼睛古人云世無",
+              "x_approx": 172
+            }
+          ],
+          "notes": [
+            "六欄，右下角缺。右側外緣及中腰有橫摺，文字有淡墨與反透。",
+            "圖上附記　眠〔疑〕　03「病」「纒」之間偏右，約 y1770–1850 小筆字。與主欄筆畫是否相接待核。",
+            "疑讀　01「現」右部見，左部略簡。02「哄誠」第二字言旁，暫依形；「費」下大墨塗一字，中央仍見口形。06「土」下木形重疊，下一字似「壞」。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": [
+        {
+          "unit_id": "f010-c06",
+          "span": [
+            10,
+            14
+          ],
+          "surface_text": "〔瞞疑〕",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 11,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0011/canvas",
+      "label": "r [11]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0011/canvas",
+      "sha256": "55d59e32e3978d7c35828c5f0dd181b1397ea3a6ff916061136071a8679ed641",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f011-c01",
+              "role": "body",
+              "text": "良醫枉死者過半矣用藥不投方任你拏船裝病起有",
+              "x_approx": 1243
+            },
+            {
+              "id": "f011-c02",
+              "role": "body",
+              "text": "不治之理葯豈有無獲效之由乎在醫者治病須要精",
+              "x_approx": 1054
+            },
+            {
+              "id": "f011-c03",
+              "role": "body",
+              "text": "習望聞問切之情用葯當審寒熱虚実之理有是脉必有",
+              "x_approx": 840
+            },
+            {
+              "id": "f011-c04",
+              "role": "body",
+              "text": "是症有是症必有是葯葯以投症病無不效如此變通",
+              "x_approx": 644
+            },
+            {
+              "id": "f011-c05",
+              "role": "body",
+              "text": "萬無一失近來醫家也多有高人傳授也有祖父相傳或",
+              "x_approx": 454
+            },
+            {
+              "id": "f011-c06",
+              "role": "body",
+              "text": "者廣遊江湖濟世之人術所以弟遊四方業醫有年矣醫",
+              "x_approx": 234
+            }
+          ],
+          "notes": [
+            "六欄，左緣有濕痕，紙上緣缺小角，頁底橫折。多欄右側點墨；06「弟」偏欄右，依對話讀入。",
+            "疑讀　01「拏」上形有連筆；「病起有」按紙面字序。02「無獲」文句可有別斷，無補。03 頁用「実」俗形，04 欄首與上欄尾續。06 左欄底與 05 底之間有淡藍反透筆，未讀入。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 12,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0012/canvas",
+      "label": "v [12]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0012/canvas",
+      "sha256": "bb7a6efc03167f0c85e565cc125619166267818fcd9b8609451c91c971d0a07b",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f012-c01",
+              "role": "body",
+              "text": "家二字也是難說醫書千卷各有灵枕治病之時必要診脉方",
+              "x_approx": 1172
+            },
+            {
+              "id": "f012-c02",
+              "role": "body",
+              "text": "可主法用葯如兵有良將攻無不克千金易得一效難求决",
+              "x_approx": 969
+            },
+            {
+              "id": "f012-c03",
+              "role": "body",
+              "text": "勝在於良將决少在於良醫有軍無將不得勝有葯無醫",
+              "x_approx": 771
+            },
+            {
+              "id": "f012-c04",
+              "role": "body",
+              "text": "不得灵弟自在江湖之上得遇高人傳授領過明人指點棄",
+              "x_approx": 566
+            },
+            {
+              "id": "f012-c05",
+              "role": "body",
+              "text": "孔遊拋儒遍遊四海濟困扶危醫道者乃人之司命也但弟市",
+              "x_approx": 353
+            },
+            {
+              "id": "f012-c06",
+              "role": "body",
+              "text": "人治病有羔葯為首市貴先生升煉不同弟按三十六罡七十二地",
+              "x_approx": 146
+            }
+          ],
+          "notes": [
+            "六欄，右緣中段褐色漬，橫摺穿欄，多欄有濃墨點。04、05、06 的「弟」略偏欄右。",
+            "疑讀　01「灵枕」次字木旁，右如冘。03「少」疑為「少／死」，小筆與03句法暫存。05「孔」下疊墨裡仍見走之。06「羔」或「羙」，下有點筆，後幅反覆同形。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 13,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0013/canvas",
+      "label": "r [13]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0013/canvas",
+      "sha256": "d70839033d8f46352feb5a815f4f0db07a1a6dab94273cf9df9c0d89aee37737",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f013-c01",
+              "role": "body",
+              "text": "煞禀陽陰造化之机運日月精華之妙修合而成故曰羔丸煉",
+              "x_approx": 1252
+            },
+            {
+              "id": "f013-c02",
+              "role": "body",
+              "text": "升必須齋戒沐浴擇一潔净之所誠心修煉不許雞犬相聞婦女",
+              "x_approx": 1050
+            },
+            {
+              "id": "f013-c03",
+              "role": "body",
+              "text": "窺見將來市人治病方可治病願勿輕視但弟羔葯有病來",
+              "x_approx": 843
+            },
+            {
+              "id": "f013-c04",
+              "role": "body",
+              "text": "取者隨症按穴貼上用鞋底烤熱熨上七七四十九遍能醫男",
+              "x_approx": 641
+            },
+            {
+              "id": "f013-c05",
+              "role": "body",
+              "text": "子諸般雜症婦人胎前産後安胎種子調養氣血安和榮衛",
+              "x_approx": 436
+            },
+            {
+              "id": "f013-c06",
+              "role": "body",
+              "text": "真來為之魁首也此藥貼住上可寬胸快膈下可調和脾胃",
+              "x_approx": 230
+            }
+          ],
+          "notes": [
+            "六欄，頭字「煞」接 f012「七十二地」。紙面四道水平摺痕，左外緣有水痕。各欄右側點墨，03 的「弟」偏右。",
+            "疑讀　01「机」及「禀」原狀近俗字。「羔」與前幅同形，文義可能借為「膏」。02「净」右首減筆。06「真來為」按字形，第二字低淡。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 14,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0014/canvas",
+      "label": "v [14]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0014/canvas",
+      "sha256": "6b129728a2ec2db373885e82fc309fad8d96030290466f2b8c3f9fa0b4e3b378",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f014-c01",
+              "role": "body",
+              "text": "有積消積有痞消痞有痰消痰有火清火走馬立效凡有要",
+              "x_approx": 1182
+            },
+            {
+              "id": "f014-c02",
+              "role": "body",
+              "text": "羔葯者只管上前勿得礙口人過留名鴈過留看人過不留",
+              "x_approx": 973
+            },
+            {
+              "id": "f014-c03",
+              "role": "body",
+              "text": "名不知張王李趙鴈過不留聲不知春夏秋冬無事者請站",
+              "x_approx": 757
+            },
+            {
+              "id": "f014-c04",
+              "role": "body",
+              "text": "兩試看何如話說不明猶如暗箭傷人弟在貴境塲上有一位",
+              "x_approx": 547
+            },
+            {
+              "id": "f014-c05",
+              "role": "body",
+              "text": "老尊年上前說道你的羔丹丸散或是施送或是要錢弟此時",
+              "x_approx": 341
+            },
+            {
+              "id": "f014-c06",
+              "role": "body",
+              "text": "言道我乃貧民百姓如何敢言施送二字亦不過積陰功半積德",
+              "x_approx": 128
+            }
+          ],
+          "notes": [
+            "六欄，外緣有斑漬，正文至少三筆旁記或補讀。04 欄首「兩」與粗直筆重疊。",
+            "圖上附記　失禮上〔疑〕　02「口」「人」「過」右，y1150–1361 三小字與下方勾筆。",
+            "圖上附記　半〔疑〕　06「過」「積」右，y1803–1900 一小字，可能為補旁。",
+            "圖上附記　養身　06「積德」右，y2140–2330 兩字。",
+            "疑讀　02「留看」第二字原形像「看」，與下一欄「留聲」比對仍異。03「站」下見兩短點，未折為重文。06「功」後一字直畫過橫，暫讀「半」。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 15,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0015/canvas",
+      "label": "r [15]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0015/canvas",
+      "sha256": "f9d8b8f5106ad9413da78effb40d95e8fd85dc6f8500fc2685d208dfe43564de",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f015-c01",
+              "role": "body",
+              "text": "該當所得謝礼的取个謝礼也無害於是取不起謝礼也是君",
+              "x_approx": 1240
+            },
+            {
+              "id": "f015-c02",
+              "role": "body",
+              "text": "子務本謝礼不取葯本要的那一位老尊年言道我家有心疼",
+              "x_approx": 1039
+            },
+            {
+              "id": "f015-c03",
+              "role": "body",
+              "text": "病先生市我治好痞弟此時言道不怕他請過先生吃藥不效",
+              "x_approx": 836
+            },
+            {
+              "id": "f015-c04",
+              "role": "body",
+              "text": "用方不灵費小無數不能好的只管與我傳來弟有本事治",
+              "x_approx": 630
+            },
+            {
+              "id": "f015-c05",
+              "role": "body",
+              "text": "好受謝古人云知音說市知音聽不是知音莫市談古言",
+              "x_approx": 437
+            },
+            {
+              "id": "f015-c06",
+              "role": "body",
+              "text": "道天市人合体天有日月而人有兩目天有東南西北人",
+              "x_approx": 211
+            }
+          ],
+          "notes": [
+            "六欄，數個「弟」以小字偏欄右。末欄「而人有」的「人」亦偏右，依句內小字照入；欄旁墨點。首字與 f014「積德」下文相接。",
+            "疑讀　03、05、06 書手作「市」形，疑是多處「與／和／替」之俗借，保留形讀。03「好痞」的宀部不清。04「費小」次字三筆。05「聽」下字按正文續讀。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 16,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0016/canvas",
+      "label": "v [16]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0016/canvas",
+      "sha256": "b1130af5774094b0134304a35cbe924361ac3708e428bb0ee02049320e072740",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f016-c01",
+              "role": "body",
+              "text": "人有五官百骸天有金木水火土而人有心肝脾肺腎天有十万",
+              "x_approx": 1179
+            },
+            {
+              "id": "f016-c02",
+              "role": "body",
+              "text": "千星斗而人有十万八千毫毛故人為一小天",
+              "x_approx": 977
+            },
+            {
+              "id": "f016-c03",
+              "role": "body",
+              "text": "凡人有病皆因漏洩真陽酒色太過元氣所傷漸成襍症男子有",
+              "x_approx": 758
+            },
+            {
+              "id": "f016-c04",
+              "role": "body",
+              "text": "十漏而女子有崩醫家有十全三德一要識字二要變通運氣三要",
+              "x_approx": 550
+            },
+            {
+              "id": "f016-c05",
+              "role": "body",
+              "text": "熟察浮沉遲數四要知脉虚実五要勿傷犯物六要知葯性温",
+              "x_approx": 348
+            },
+            {
+              "id": "f016-c06",
+              "role": "body",
+              "text": "凉七要炮熬煮灸八要審察精詳九要禮貌恭敬十要知人的心事",
+              "x_approx": 140
+            }
+          ],
+          "notes": [
+            "六欄，02 欄以「天」提前收束、下方空白。上緣小剝缺，右下頁角鈍缺，欄旁墨點不均。",
+            "疑讀　01 欄首「人」接先幅「北人」，保留重出。03「襍」左邊衣旁似。05「犯物」沿形讀。06「炮熬煮灸」末字火旁上近久。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 17,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0017/canvas",
+      "label": "r [17]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0017/canvas",
+      "sha256": "77d7b74f8a4bb4c893ed2f76bbf1f8e14c1d4d1f35ff459fa6ecb32a41936b04",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f017-c01",
+              "role": "body",
+              "text": "此乃十全也",
+              "x_approx": 1276
+            },
+            {
+              "id": "f017-c02",
+              "role": "body",
+              "text": "遍遊海角把口誇處明公是一家識得神農真妙訣平生濟",
+              "x_approx": 1055
+            },
+            {
+              "id": "f017-c03",
+              "role": "body",
+              "text": "世作生涯想昔日公冶長老先生閒步花園見從空飛來一隻大",
+              "x_approx": 836
+            },
+            {
+              "id": "f017-c04",
+              "role": "body",
+              "text": "鴈站在塘峽之上又見從空來飛一隻小燕立在那柳樹稍頭那公冶",
+              "x_approx": 623
+            },
+            {
+              "id": "f017-c05",
+              "role": "body",
+              "text": "長老先生能識鳥音見二鳥口吐人言所得明白那小燕問道大鴈",
+              "x_approx": 422
+            },
+            {
+              "id": "f017-c06",
+              "role": "body",
+              "text": "哥你身透腿粗飛騰海角有何好處連問數声大鴈不答小燕",
+              "x_approx": 217
+            }
+          ],
+          "notes": [
+            "六欄，01 僅「此乃十全也」，下有反透，02 轉韻語及公冶長故事。全幅黑點及背透明顯。",
+            "圖上附記　四　02「遊」「海」之間偏右小字，約 x1110–1173、y439–495。",
+            "疑讀　02「處」下雙點可能重文。04「塘峽」次字山旁見；倒序「從空來飛」照原。06「身透」「腿」前後之形未全定。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 18,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0018/canvas",
+      "label": "v [18]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0018/canvas",
+      "sha256": "90cb0e9316dcce08a9c67399464913711f5a5881cea6cca79c6491873c298502",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f018-c01",
+              "role": "body",
+              "text": "曰大鴈哥我問數声你然何不能答言這等輕慢於我大鴈曰你何",
+              "x_approx": 1168
+            },
+            {
+              "id": "f018-c02",
+              "role": "body",
+              "text": "好處小燕曰我吃的珍饈美味住的是龍樓鳳閣間來繡女房中",
+              "x_approx": 961
+            },
+            {
+              "id": "f018-c03",
+              "role": "body",
+              "text": "頑耍問來時雲端裏高飛大鴈曰汝可知仁義禮智信否小燕曰道",
+              "x_approx": 769
+            },
+            {
+              "id": "f018-c04",
+              "role": "body",
+              "text": "也不知願聞其詳大鴈曰我不食虫蟻全我仁也不遭蹋人間五谷",
+              "x_approx": 554
+            },
+            {
+              "id": "f018-c05",
+              "role": "body",
+              "text": "全我義也行動我讓長者前飛全我禮也自幼失群終身不配全",
+              "x_approx": 330
+            },
+            {
+              "id": "f018-c06",
+              "role": "body",
+              "text": "我智也小畜生口食百虫矢了你的信遭蹋五谷矢了你的義行動",
+              "x_approx": 124
+            }
+          ],
+          "notes": [
+            "六欄，右中緣水漬。屢見濃墨點，05 欄中「飛」「全」偏右另有疊墨，欄左緣見鄰葉散點。",
+            "圖上附記　〔墨塗〕　05「飛」「全」之間右側，約 x377–460、y1195–1378，粗墨蓋筆，殘形未定。",
+            "疑讀　01「然何」、03「問來時」、06「矢了」均依形；語義或可另斷。04、06 第一字似「遭」，故保留「遭蹋」。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 19,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0019/canvas",
+      "label": "r [19]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0019/canvas",
+      "sha256": "677e23489cc8a49990146fa2941ec132e9ba51ad431c3b09fc14459bd8422763",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f019-c01",
+              "role": "body",
+              "text": "不讓長者前飛矢了你的礼朝失偶而暮配矢了你的智來則有",
+              "x_approx": 1296
+            },
+            {
+              "id": "f019-c02",
+              "role": "body",
+              "text": "名去則無声矢了你的信小畜生連五常都不知道敢在近前講話",
+              "x_approx": 1071
+            },
+            {
+              "id": "f019-c03",
+              "role": "body",
+              "text": "那大鴈罵得小燕口吐鮮血墜落池塘而死那公冶長老先生在傍見",
+              "x_approx": 860
+            },
+            {
+              "id": "f019-c04",
+              "role": "body",
+              "text": "此情由即呌書童拏文房四寶來題詩在粉壁牆上詩曰鴈燕",
+              "x_approx": 664
+            },
+            {
+              "id": "f019-c05",
+              "role": "body",
+              "text": "池塘鬧声喧不分大小論争端大雁空中飛氣露小燕墜落池塘",
+              "x_approx": 457
+            },
+            {
+              "id": "f019-c06",
+              "role": "body",
+              "text": "边一般皆長林中鳥愚者愚來賢者賢飛禽尚且知仁義礼智信",
+              "x_approx": 236
+            }
+          ],
+          "notes": [
+            "六欄，左外緣水漬及散墨。04 後半起詩，05、06 多空圈，01–04 多墨點。",
+            "疑讀　01「朝失偶」之「失」與前後「矢」有近形。05「飛氣露」中間作「氣」，末雨頭可見。06「長林」依圖字序。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 20,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0020/canvas",
+      "label": "v [20]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0020/canvas",
+      "sha256": "505b26cedd692ba29d7f07e31df63e4a34981bc5d87ae0a7f2cab04b21dd7012",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f020-c01",
+              "role": "body",
+              "text": "為人何不礼当先知音說與知音听不識知音莫與談",
+              "x_approx": 1201
+            },
+            {
+              "id": "f020-c02",
+              "role": "body",
+              "text": "凡眼目疼痛不得一様症七十二眼系五輪八廓內分隂陽肝胆相",
+              "x_approx": 979
+            },
+            {
+              "id": "f020-c03",
+              "role": "body",
+              "text": "照受五脏六腑之華盖為人一身之主宰眼珠系於肝虚則迎丰",
+              "x_approx": 771
+            },
+            {
+              "id": "f020-c04",
+              "role": "body",
+              "text": "流泪瞳人系於腎虚冷泪交流小眼角系於心虚則血母背",
+              "x_approx": 563
+            },
+            {
+              "id": "f020-c05",
+              "role": "body",
+              "text": "瞳白眼珠系於肺虚則生膜上眼皮系於胃下眼皮系於脾",
+              "x_approx": 348
+            },
+            {
+              "id": "f020-c06",
+              "role": "body",
+              "text": "胃皆虚則拳毛倒提故眼分五行金木水火土古人云天凴日月",
+              "x_approx": 135
+            }
+          ],
+          "notes": [
+            "六欄，01 接上幅禽鳥故事；02 另起「凡眼目疼痛」。04、05、06 近字右有雙點，可能標重文，本文列可見單字。左下摺線。",
+            "疑讀　03 欄末「丰」形貫豎，可能借書「風」；04 末「血母背」字義未定，「背」以下半月形暫讀；06「拳毛」首字折筆像拳，「凴」下部有几形。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 21,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0021/canvas",
+      "label": "r [21]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0021/canvas",
+      "sha256": "11ac037495cb8e22001fd894a53b04901cdeefc6b9a7db725e4555740ad5e083",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f021-c01",
+              "role": "body",
+              "text": "人凴眼目視萬物察秋毫無所不至天無日月沌混不明人無眼",
+              "x_approx": 1281
+            },
+            {
+              "id": "f021-c02",
+              "role": "body",
+              "text": "目寸歩難行日月有時而晦者風雲雷電之所致也眼之有時",
+              "x_approx": 1056
+            },
+            {
+              "id": "f021-c03",
+              "role": "body",
+              "text": "矢者四氣七情之所害也不怕內服明目散外點紫金丹不能見",
+              "x_approx": 857
+            },
+            {
+              "id": "f021-c04",
+              "role": "body",
+              "text": "效只管與弟傳來即時見效不枉弟在貴郡有朴雲観目之",
+              "x_approx": 640
+            },
+            {
+              "id": "f021-c05",
+              "role": "body",
+              "text": "能列位明公遺留醫中不得一様人有葯個有方当表",
+              "x_approx": 434
+            },
+            {
+              "id": "f021-c06",
+              "role": "body",
+              "text": "則表当裏則裏一要能知隂陽二氣二要知其寒熱温凉",
+              "x_approx": 210
+            }
+          ],
+          "notes": [
+            "六欄，續論眼目。左緣水漬，末欄 05、06 之間有格網狀紙紋或印痕，無成字。墨點與雙點較多。",
+            "疑讀　01「沌混」字序原然。03 起字「矢」近「失」。04「朴雲観目」項內暫讀，末兩字左部不明。05「人」「個」下有雙點，保留可見字形。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 22,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0022/canvas",
+      "label": "v [22]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0022/canvas",
+      "sha256": "3e04555bcc9ea9435adf3f75a25d1d937bbc23925fd3afe900f33222506579ae",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f022-c01",
+              "role": "body",
+              "text": "三要知其浮沉遲數四要知其望聞問捏現其形察其色知",
+              "x_approx": 1192
+            },
+            {
+              "id": "f022-c02",
+              "role": "body",
+              "text": "其脏腑雜症自当時神農嘗百草知其四時寒熱温平",
+              "x_approx": 982
+            },
+            {
+              "id": "f022-c03",
+              "role": "body",
+              "text": "軒轅皇帝素問扁鵲能治內外調理隂陽太乙雷公炮製葯",
+              "x_approx": 762
+            },
+            {
+              "id": "f022-c04",
+              "role": "body",
+              "text": "性能有起死回生之功王叔和脉訣流傳張仲景專論傷",
+              "x_approx": 562
+            },
+            {
+              "id": "f022-c05",
+              "role": "body",
+              "text": "寒百發百中孫真人龍伏虎有海外通經之理醫道無窮講之",
+              "x_approx": 355
+            },
+            {
+              "id": "f022-c06",
+              "role": "body",
+              "text": "不盡像咳嗽不得一様書上說得明白咳是咳嗽是嗽有声",
+              "x_approx": 124
+            }
+          ],
+          "notes": [
+            "六欄，右中緣有褐漬，少數欄有墨點。01 接 f021 歷述醫者所要。",
+            "疑讀　01「捏」與常語「切」有別，原形含手旁按形記。03「太乙」次字近乙。05「真人龍」的「人」兩撇與下「龍」相近。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 23,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0023/canvas",
+      "label": "r [23]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0023/canvas",
+      "sha256": "ab946390882632b71b20403906cce561185b818bc6ac1e76431c50655e8c7ccc",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f023-c01",
+              "role": "body",
+              "text": "有声無痰謂之嗽咳有痰無声謂嗽有痰有声謂之咳嗽咳嗽原",
+              "x_approx": 1297
+            },
+            {
+              "id": "f023-c02",
+              "role": "body",
+              "text": "來十八般皆因酒色市風寒大腸咳嗽喉嚨痛小腸咳嗽口舌干膀胱",
+              "x_approx": 1071
+            },
+            {
+              "id": "f023-c03",
+              "role": "body",
+              "text": "咳嗽週身冷胃上咳嗽有停痰故尔未曾修裡葯先明吐出五色痰行",
+              "x_approx": 857
+            },
+            {
+              "id": "f023-c04",
+              "role": "body",
+              "text": "痰心火盛青痰病在肝白痰傷肺腑脾困吐黃痰黑痰傷腎水勞",
+              "x_approx": 641
+            },
+            {
+              "id": "f023-c05",
+              "role": "body",
+              "text": "碌是根源若還不分晝夜咳潮熱不止謂之咳嗽這就是五勞七",
+              "x_approx": 431
+            },
+            {
+              "id": "f023-c06",
+              "role": "body",
+              "text": "傷內經書上說得明白貪財過度謂之心勞淫慾矢節謂之腎",
+              "x_approx": 220
+            }
+          ],
+          "notes": [
+            "六欄，欄面墨色時淡，首欄中下部有偏欄小字。左外緣及頁底濕痕。",
+            "圖上附記　之　01「謂」「嗽」之間偏右，約 y1400–1465。",
+            "疑讀　03 末「行」形雙人旁；04 開頭「痰」字畫與前相續，可能為另一起語。06「矢節」據直筆及斜筆，文義可能是「失節」。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 24,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0024/canvas",
+      "label": "v [24]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0024/canvas",
+      "sha256": "afb320233b659aed10bf8ea7181ee60c591eadf6ec57c9e4b33c6319e406157a",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f024-c01",
+              "role": "body",
+              "text": "勞碌所傷謂之肝酒色所傷謂之肺飢飽食積謂之脾此",
+              "x_approx": 1169
+            },
+            {
+              "id": "f024-c02",
+              "role": "body",
+              "text": "乃五勞何為七傷多走必傷於筋坐多必傷於血睡多必傷於骨",
+              "x_approx": 962
+            },
+            {
+              "id": "f024-c03",
+              "role": "body",
+              "text": "立多必傷於肉話多必傷於神久思傷心淫多傷精此乃七傷若",
+              "x_approx": 765
+            },
+            {
+              "id": "f024-c04",
+              "role": "body",
+              "text": "不早治日久根深面似桃花染渾身似枯柴若還轉到此症不要",
+              "x_approx": 547
+            },
+            {
+              "id": "f024-c05",
+              "role": "body",
+              "text": "說明醫不好你是神仙也難療何為五積內經書上說得白人",
+              "x_approx": 340
+            },
+            {
+              "id": "f024-c06",
+              "role": "body",
+              "text": "吃五谷焉能不生病飲不飲食不食飲食飲食不中其節生冷過",
+              "x_approx": 144
+            }
+          ],
+          "notes": [
+            "六欄，首字「勞」承前幅「腎」。01「勞」與 05「醫」下有雙點。右緣水漬，左下離底有指狀褐痕。",
+            "疑讀　05「明醫」依圖，句子可別斷。06「飲不飲食不食飲食飲食」有重寫，按欄照錄。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 25,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0025/canvas",
+      "label": "r [25]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0025/canvas",
+      "sha256": "d8ad693e54ab883e91f36b529a71fbce353aec96b0c3e46216fb8732a8af5193",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f025-c01",
+              "role": "body",
+              "text": "度宿食不均積在於胃日久不治遂成他症積聚之病不得一様酒",
+              "x_approx": 1284
+            },
+            {
+              "id": "f025-c02",
+              "role": "body",
+              "text": "積心口作痛食積反飽饋雜氣積兩脇作脹虫積滿腹作痛水積",
+              "x_approx": 1064
+            },
+            {
+              "id": "f025-c03",
+              "role": "body",
+              "text": "四肢黄腫積在於肺咳嗽吐痰聚在腎兩耳不鳴聚大腸風下血",
+              "x_approx": 856
+            },
+            {
+              "id": "f025-c04",
+              "role": "body",
+              "text": "聚在小腸小便赤澀聚在膀胱五淋白濁聚在三焦五心必潮熱積",
+              "x_approx": 628
+            },
+            {
+              "id": "f025-c05",
+              "role": "body",
+              "text": "者五脏之所使六聚者六腑之所成",
+              "x_approx": 418
+            },
+            {
+              "id": "f025-c06",
+              "role": "body",
+              "text": "夜夢遺精之病總由其人淫心太重日見佳人美女淫慾在心朝思暮",
+              "x_approx": 219
+            }
+          ],
+          "notes": [
+            "六欄，05 較短，下方有反透；06 另起夜夢遺精。左緣及欄底有褐、灰漬。",
+            "圖上附記　五　04 欄末「積」之右偏上，約 y2245–2300，可能補成「五積者」。",
+            "疑讀　02「飽饋」次字首近食旁。03「不鳴」首一橫斜撇明顯，仍待檢。04「澀」結構見水旁與雙止。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 26,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0026/canvas",
+      "label": "v [26]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0026/canvas",
+      "sha256": "4480a955cd2e8fc6f1fe881b29485397843d7a76ed4d101757155f31bb8c8422",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f026-c01",
+              "role": "body",
+              "text": "想一旦三日久積於丹田丹田主脉能上至頂門泥元宮下至海底湧泉穴",
+              "x_approx": 1172
+            },
+            {
+              "id": "f026-c02",
+              "role": "body",
+              "text": "所內經書上說得明白積上一分謂之遺精積下一分名為生炉香故",
+              "x_approx": 964
+            },
+            {
+              "id": "f026-c03",
+              "role": "body",
+              "text": "尔夜夢遺精事好教君家總不知日見佳人美夜與鬼交妻一點真情處",
+              "x_approx": 754
+            },
+            {
+              "id": "f026-c04",
+              "role": "body",
+              "text": "好似雨淋衣三六逢九數着氣血低者還得此病急早請明医倘若",
+              "x_approx": 541
+            },
+            {
+              "id": "f026-c05",
+              "role": "body",
+              "text": "你不治日久更痰咳嗽氣喘就不能治了",
+              "x_approx": 335
+            },
+            {
+              "id": "f026-c06",
+              "role": "body",
+              "text": "水腫之病不得一様書上說得明白水腫之病出乎脾時医不知扎壊腱",
+              "x_approx": 110
+            }
+          ],
+          "notes": [
+            "六欄，05 較短；06 另起水腫。右緣有水痕，05 欄下及底部淡青反透。",
+            "疑讀　02 開首「所內」及尾「生炉香」依形暫記。03「交妻」次字有女形。04「着」下三小點另見，是否重文未定。06 末三字受墨淡與頁邊影響，先記「扎壊腱」，接 f027 開頭上下文。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 27,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0027/canvas",
+      "label": "r [27]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0027/canvas",
+      "sha256": "8e6e0889506da9bfa65e78d2a1b83ec6819f4ec45282b81995799a6433e716ae",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f027-c01",
+              "role": "body",
+              "text": "腎水脾土兩要固脾土一虧水無達泛溢併流四肢去使人浮腫放光輝",
+              "x_approx": 1282
+            },
+            {
+              "id": "f027-c02",
+              "role": "body",
+              "text": "風腫氣腫併血腫陽水隂水也雖知風腫走注皮麻木氣腫隨氣消長之血",
+              "x_approx": 1063
+            },
+            {
+              "id": "f027-c03",
+              "role": "body",
+              "text": "腫之病如何治皮間赤縷血痕兜陽水身熱隂水冷利水和脾總治",
+              "x_approx": 858
+            },
+            {
+              "id": "f027-c04",
+              "role": "body",
+              "text": "之木香流氣当先識陽水身熱八正散隂水身凉胃苓奇水腫通",
+              "x_approx": 648
+            },
+            {
+              "id": "f027-c05",
+              "role": "body",
+              "text": "用牛黄散香平散子世間稀有這宗病腫不怕他單扇門進",
+              "x_approx": 440
+            },
+            {
+              "id": "f027-c06",
+              "role": "body",
+              "text": "不得双扇出不得或三年五載吃過張大夫些葯不效李",
+              "x_approx": 241
+            }
+          ],
+          "notes": [
+            "六欄，續前幅水腫、問答，左側褐漬及上下散墨。",
+            "疑讀　01「無達」次字可見走之及羊狀。03「血痕兜」末形可能是訛／借字。04「胃苓奇」第三字暂依形，可能「散」之訛。06 張大夫下有數筆上挑，以「些」存疑。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 28,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0028/canvas",
+      "label": "v [28]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0028/canvas",
+      "sha256": "57764e270090c64bcb466741ecd9ae73678bebd6787bc214e26f0445aabd68ac",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f028-c01",
+              "role": "body",
+              "text": "大夫官葯不灵只管市弟傳來我將羔葯貼住用黄土炒熱往下",
+              "x_approx": 1173
+            },
+            {
+              "id": "f028-c02",
+              "role": "body",
+              "text": "熨三次一時間肚內作响即刻就消將下來那時方纔見效夫妙方",
+              "x_approx": 955
+            },
+            {
+              "id": "f028-c03",
+              "role": "body",
+              "text": "像這打擺子之症前有一位老尊年上前問道我有一姪擺子打了一",
+              "x_approx": 757
+            },
+            {
+              "id": "f028-c04",
+              "role": "body",
+              "text": "年前日請一先生也是調治不好那先生說道這擺子五個鬼冷來",
+              "x_approx": 563
+            },
+            {
+              "id": "f028-c05",
+              "role": "body",
+              "text": "有個交水鬼熱來有個燒火鬼頭痛有個打頭鬼身痛有個抽觔",
+              "x_approx": 347
+            },
+            {
+              "id": "f028-c06",
+              "role": "body",
+              "text": "鬼戰來有个搖床鬼弟听得哈大笑弟此時言道未必閻王市",
+              "x_approx": 121
+            }
+          ],
+          "notes": [
+            "六欄，03 起「打擺子」問答，02 末有雙排窄字。敘述多為俗語、病人聲稱與鬼怪稱呼。",
+            "圖上附記　顯得弟功　02「見效」後偏右，與偏左「夫妙方」併排，約 y2090–2395。可連讀「顯得弟功夫妙方」，合稿時待覆。",
+            "疑讀　01「官」字形似宀中雙口，先留。03 開頭像、象有疊筆。06「哈」下有似重文的曲鉤。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 29,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0029/canvas",
+      "label": "r [29]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0029/canvas",
+      "sha256": "c9367e7c524a2989972b292e92fbe45e14c8b557927a73aa272c4186b247089b",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f029-c01",
+              "role": "body",
+              "text": "他有仇打開鬼門関放此鬼出來独害他不成書上說得明白夏傷",
+              "x_approx": 1284
+            },
+            {
+              "id": "f029-c02",
+              "role": "body",
+              "text": "於暑秋發瘧邪風正氣相交作又因飲食不調勻生冷停痰寒熱搏",
+              "x_approx": 1050
+            },
+            {
+              "id": "f029-c03",
+              "role": "body",
+              "text": "先寒後熱寒瘧復先熱後寒温瘧作更有單熱而寒此症名之為",
+              "x_approx": 853
+            },
+            {
+              "id": "f029-c04",
+              "role": "body",
+              "text": "瘴瘧一日一發容易治兩日三日難捉摸治法消暑市除痰先服柴苓",
+              "x_approx": 632
+            },
+            {
+              "id": "f029-c05",
+              "role": "body",
+              "text": "湯最確次用截瘧鬼哭丹青脾飲子尋常瘧無食不成擺",
+              "x_approx": 431
+            },
+            {
+              "id": "f029-c06",
+              "role": "body",
+              "text": "子無積不成痰原非鬼亦非神寒痰並冷水熱來好似火上睡冷",
+              "x_approx": 224
+            }
+          ],
+          "notes": [
+            "六欄，續辨擺子和瘧，見病因推測及口服方名。左側外緣水漬、頁底淡青斑。",
+            "疑讀　03「單熱而寒」按現存筆序。05 末段「瘧無食」附近兩字墨淡，下見「無」四點。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 30,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0030/canvas",
+      "label": "v [30]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0030/canvas",
+      "sha256": "c2adc1f2f939acfed577ee72f788f084d6fc893812524230ca47a28bf0140019",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f030-c01",
+              "role": "body",
+              "text": "來好似冷水交發來發去發成一塊痞子痞散而成肚大青筋倘",
+              "x_approx": 1195
+            },
+            {
+              "id": "f030-c02",
+              "role": "body",
+              "text": "有這宗病症市弟傳來將羔葯貼住燃香不過一炷快馬不上",
+              "x_approx": 977
+            },
+            {
+              "id": "f030-c03",
+              "role": "body",
+              "text": "五里即時呌他止住總算得弟的羔葯有效",
+              "x_approx": 774
+            },
+            {
+              "id": "f030-c04",
+              "role": "body",
+              "text": "又有中寒之病書上說得明白中寒之病腎為根腎氣空虚",
+              "x_approx": 570
+            },
+            {
+              "id": "f030-c05",
+              "role": "body",
+              "text": "寒易侵氣弱体虚調護失乘凉臥地也傷人四肢厥冷俱僵真",
+              "x_approx": 344
+            },
+            {
+              "id": "f030-c06",
+              "role": "body",
+              "text": "腹痛昏迷口失音治法只宜温散葯無過五積理中尋還有",
+              "x_approx": 122
+            }
+          ],
+          "notes": [
+            "六欄，03 短欄結束上一病例，04 轉中寒。右角及外緣有兩塊褐漬，右下角青灰斑。",
+            "疑讀　01「交」見交叉，可疑「浸」等近音詞。「青筋」皆見。05「俱僵真」尾字十具形，暫照形。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 31,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0031/canvas",
+      "label": "r [31]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0031/canvas",
+      "sha256": "e15d881d15efd0bd4ca109d1161a4133e2b7002a35920c2d526c72db97217846",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f031-c01",
+              "role": "body",
+              "text": "中暑之病書上說得明白傷寒做出百般病人心胞絡市胃應胃氣稍",
+              "x_approx": 1271
+            },
+            {
+              "id": "f031-c02",
+              "role": "body",
+              "text": "虚胃暑行暑入口牙心則病口渴心煩暑悶沉或為吐瀉熱不定四",
+              "x_approx": 1058
+            },
+            {
+              "id": "f031-c03",
+              "role": "body",
+              "text": "肢厥冷脉為虚身体但無疼痛病驅暑和中二事先香茹五苓堪",
+              "x_approx": 846
+            },
+            {
+              "id": "f031-c04",
+              "role": "body",
+              "text": "立應常服六合湯最宜外熱內寒理中正",
+              "x_approx": 647
+            },
+            {
+              "id": "f031-c05",
+              "role": "body",
+              "text": "凡有中湿之病書上說得明白問君何以之中湿染於杳冥不自識非專",
+              "x_approx": 423
+            },
+            {
+              "id": "f031-c06",
+              "role": "body",
+              "text": "雨水是湿根天氣地氣汗氣湿中人身体覺沉重骨肉疼麻行不",
+              "x_approx": 222
+            }
+          ],
+          "notes": [
+            "六欄，04 為短欄，05 起中濕；左邊水痕、摺褶及局部下邊纖維破損。",
+            "疑讀　01「胞絡」月旁由墨色辨。02「牙」近牙形，前後還可另斷。03 香「茹」原有口形，保留。05「杳冥」第一字有木日二部，仍待回圖。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 32,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0032/canvas",
+      "label": "v [32]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0032/canvas",
+      "sha256": "897a1038c1e7cc9b223998b4fdd905ac07bc5a2a1f3a1bb4934801ec07091816",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f032-c01",
+              "role": "body",
+              "text": "疼漸加浮腫及身黄治法利便除身湿五苓除湿滲湿先加减消",
+              "x_approx": 1183
+            },
+            {
+              "id": "f032-c02",
+              "role": "body",
+              "text": "詳用五積又有風湿腰腿疼獨活寄生湯可食",
+              "x_approx": 979
+            },
+            {
+              "id": "f032-c03",
+              "role": "body",
+              "text": "還有中風之症書上說得明白中風之症多般類偏枯風痱並風",
+              "x_approx": 760
+            },
+            {
+              "id": "f032-c04",
+              "role": "body",
+              "text": "並風痺四者本因邪中人心肝脾肺腎半身不遂肉頑麻不知人事昏",
+              "x_approx": 547
+            },
+            {
+              "id": "f032-c05",
+              "role": "body",
+              "text": "沉睡手足抽掣痰涎壅榮衛隂虚所由致治法順氣與疏風烏葯",
+              "x_approx": 334
+            },
+            {
+              "id": "f032-c06",
+              "role": "body",
+              "text": "順氣当先識小續命湯排風湯甚者三星飲為最",
+              "x_approx": 121
+            }
+          ],
+          "notes": [
+            "六欄。02 短欄，03 另起中風。上右兩處濕跡，右緣磨缺，首尾有散點。",
+            "疑讀　01 首字「疼」接上幅末字「不」，同形也可讀「痰」，結合字形仍待二校。02「詳」水旁似而不穩。04 原欄起重複「並風」；05「疏」左側近言形，暫釋。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 33,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0033/canvas",
+      "label": "r [33]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0033/canvas",
+      "sha256": "c917a9ef9c08baf34873d376218878c151f37d275658ce21193f6da729b497ce",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f033-c01",
+              "role": "body",
+              "text": "又有秋天諸般痢症其症有八何為八痢噤口痢休息痢湿痢風痢",
+              "x_approx": 1269
+            },
+            {
+              "id": "f033-c02",
+              "role": "body",
+              "text": "赤痢白痢黑痢五色痢只因外受風寒暑湿熱氣內因不戒飲食生",
+              "x_approx": 1040
+            },
+            {
+              "id": "f033-c03",
+              "role": "body",
+              "text": "冷白痢傷氣赤痢傷血寒痢微痛熱痢窘痛實墜盡前書上說得明",
+              "x_approx": 825
+            },
+            {
+              "id": "f033-c04",
+              "role": "body",
+              "text": "白問君何故而成痢盖因積物並氣滯物欲出時氣不行脾胃不和",
+              "x_approx": 609
+            },
+            {
+              "id": "f033-c05",
+              "role": "body",
+              "text": "飲食致夏月過食生冷多及至秋來皆如是單白單赤兼赤白医",
+              "x_approx": 407
+            },
+            {
+              "id": "f033-c06",
+              "role": "body",
+              "text": "者只將三則治單紅熱單白寒冷热不和兼赤白紅痢解毒並香",
+              "x_approx": 210
+            }
+          ],
+          "notes": [
+            "六欄，論秋日痢疾。上緣及外緣有小片剝缺，字墨部分偏淡，外緣及書口有墨點。",
+            "疑讀　03「實墜盡」三字原形待覆。05 末「医」古俗形，06 末「香」字形清楚並與 f034 首字其義連續。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 34,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0034/canvas",
+      "label": "v [34]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0034/canvas",
+      "sha256": "7d76196ac12c89a2986e9a2035e99e0a4d187cc2bd399d33ce4817b300157e52",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [
+            {
+              "id": "f034-c01",
+              "role": "body",
+              "text": "蘼枳殻棱莪三用得參苓白术加木香久痢不止還堪啜我有",
+              "x_approx": 1184
+            },
+            {
+              "id": "f034-c02",
+              "role": "body",
+              "text": "神仙換骨丹一服當先功莫測",
+              "x_approx": 974
+            },
+            {
+              "id": "f034-n01",
+              "role": "colophon",
+              "text": "光緒七年七月初六日鑑〔疑〕黃氏抄",
+              "x_approx": 328,
+              "placement": "抄記，大字直書約 x198–455、y73–2469。日下至抄字間隔甚寬。"
+            },
+            {
+              "id": "f034-n02",
+              "role": "small-writing",
+              "text": "万〔疑〕",
+              "x_approx": 428,
+              "placement": "「日」後、「鑑」上方偏右，約 x380–460、y1388–1480。字較小，疑補在「日」「鑑」間，也可能有異讀。"
+            }
+          ],
+          "notes": [
+            "右側兩欄收束正文，左側另有異體大字抄記。右外緣和底緣破損，中央下方多處藍灰滲墨兼摺痕。",
+            "疑讀　正文 01 欄首草下有鹿與米狀連筆，暫作「蘼」，f033 跨幅前字「香」。同欄「棱莪三」沿圖面字序。抄記「鑑」金旁、右下皿可見，右上有兩斜筆，也可能是「鎰」。小字「万」與下字之接合待覆。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": [
+        {
+          "unit_id": "f034-n01",
+          "span": [
+            10,
+            13
+          ],
+          "surface_text": "〔疑〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f034-n02",
+          "span": [
+            1,
+            4
+          ],
+          "surface_text": "〔疑〕",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 35,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0035/canvas",
+      "label": " -  [35]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0035/canvas",
+      "sha256": "827d1dd005ad4f52b20d64ecf71926d9b3b87845a6b0323c347ed958829acd6b",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "白色後護葉，主面無可識墨字。右側有前頁褐紙窄邊，頁底橫摺紋明顯。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 36,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0036/canvas",
+      "label": " -  [36]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0036/canvas",
+      "sha256": "a0334877747d300b9a68903ea5dcbfb2e72fde9008f5a4ceb99e5b0287a3fa32",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "白色後護葉反面，主面無可識墨字。左側相鄰褐紙窄邊，白紙有多道斜褶與橫皺。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 37,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0037/canvas",
+      "label": " -  [37]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0037/canvas",
+      "sha256": "037cdea4d8762982461406ee57c3fb18cfde568b10a94a9131bb05ddccbd6f9b",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "褐色後封裡，近右側書口露白紙窄邊。褐色主面無可識墨字，僅散佈紙纖維及少許點斑。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 38,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0038/canvas",
+      "label": " -  [38]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0038/canvas",
+      "sha256": "827112efd79dc43cc404b45cfed714b156866b6dbaa849b32244db3e1964bb26",
+      "scan_width": 1644,
+      "scan_height": 2569,
+      "dimensions": [
+        1644,
+        2569
+      ],
+      "writing_status": "封底",
+      "duplicate_of": null,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "褐色封底外面，左緣有四個線裝穿線位置，白線沿書脊上下相接。上左有黃褐圓斑，主面無可識文字。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 39,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0039/canvas",
+      "label": " -  [39]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0039/canvas",
+      "sha256": "e25c9e62ab5e620f97ba99df586efbaf632b8b02f4210056a9eb37638f963157",
+      "scan_width": 2073,
+      "scan_height": 2102,
+      "dimensions": [
+        2073,
+        2102
+      ],
+      "writing_status": "色卡重拍",
+      "duplicate_of": 5,
+      "surfaces": [
+        {
+          "side": "whole",
+          "units": [],
+          "notes": [
+            "與 f005 同一原頁，這幅截去頁首符形，左下角紙缺、橫摺、欄文及墨圈相合。中央覆 24 格色卡、尺及解析力標靶，右半為淺色空紙。照 f005 的正式六欄定位索引。",
+            "圖上附記　Staatsbibliothek zu Berlin / Preußischer Kulturbesitz　色卡現代攝影識別牌三行，約 x445–1000、y1395–1565。圖中另見釐米直尺及解析力標靶。",
+            "圖上附記　〔疊紙殘筆〕　對應 f005 第 06 欄「緣」左下，約 x0–167、y2172 至底邊，重拍揭出一組下層筆跡，末近「主」，歸層及讀法待核。",
+            "對圖　f039 上緣仍見 f005 六欄各欄欄首。右一「三皇治」、右二「主免得」、右三「下連十」、右四「病有四」、右五「醫癆癆」、右六「真近來」，以及左下「遇倒」與「有緣」，足以定位同頁。"
+          ]
+        }
+      ],
+      "illustrations": [],
+      "uncertainty": []
+    }
+  ],
+  "counts": {
+    "image_frames": 39,
+    "body_columns": 176,
+    "visual_note_records": 51,
+    "graphic_symbols_located": 2,
+    "inline_uncertainty_spans": 3,
+    "text_units": 178
+  },
+  "source_reference": {
+    "catalogue": "https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000",
+    "manifest": "https://content.staatsbibliothek-berlin.de/dc/3348761158/manifest",
+    "manifest_sha256": "fef8de26e427d1f6bdde61fb62a926ce5951a076f903bc935a8c551fb92984e6",
+    "shelfmark": "Slg. Unschuld 8555",
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_recognition": {
+      "format": "ALTO XML",
+      "sample": "https://content.staatsbibliothek-berlin.de/dc/PPN3348761158-00000005.ocr.xml",
+      "treatment": "The catalog already provides machine text. The transcription was prepared against the manuscript images."
+    }
+  },
+  "source_languages": [
+    "lzh"
+  ]
+}

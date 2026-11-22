@@ -1,0 +1,725 @@
+{
+  "source": "https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000",
+  "image_viewer": "https://content.staatsbibliothek-berlin.de/dc/3348761158/manifest",
+  "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "shelfmark": "Slg. Unschuld 8555",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0001/canvas",
+      "label": " -  [1]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0001/canvas",
+      "sha256": "bfb1545f2d05bb548c49f3cea4e8a80575ca396408379b9a754bf26ea49269ee",
+      "scan_width": 1660,
+      "scan_height": 2601,
+      "dimensions": [
+        1660,
+        2601
+      ],
+      "writing_status": "封面",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 2,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0002/canvas",
+      "label": " -  [2]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0002/canvas",
+      "sha256": "e698c92daa945d9156af8d9b19e26fa61d16d8ed1098c385c43ba97953d09cfa",
+      "scan_width": 1461,
+      "scan_height": 2540,
+      "dimensions": [
+        1461,
+        2540
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 3,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0003/canvas",
+      "label": " -  [3]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0003/canvas",
+      "sha256": "b176d24d5db995acb303369813e4df025d1ad1fe69acc0ced921feaadac071f7",
+      "scan_width": 1431,
+      "scan_height": 2535,
+      "dimensions": [
+        1431,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 4,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0004/canvas",
+      "label": " -  [4]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0004/canvas",
+      "sha256": "543273773dbf3487220340423b5f4bc2b35dac112e1f0be084867c194e6895a6",
+      "scan_width": 1461,
+      "scan_height": 2540,
+      "dimensions": [
+        1461,
+        2540
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 5,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0005/canvas",
+      "label": "r [5]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0005/canvas",
+      "sha256": "a53c661d46c8ff11daa7d0f0baa9d7bd0ca8a58cff09a9dd68eb29c55bc9b640",
+      "scan_width": 1431,
+      "scan_height": 2535,
+      "dimensions": [
+        1431,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [
+        {
+          "kind": "manuscript-symbol",
+          "description": "頁首 x855–1048、y87–249。方框略圓，內四圓筆，墨兼褐紅。形義未定。",
+          "x_approx": 954,
+          "bbox_xyxy_px_approx": [
+            855,
+            87,
+            1048,
+            249
+          ]
+        }
+      ],
+      "uncertainty": []
+    },
+    {
+      "image": 6,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0006/canvas",
+      "label": "v [6]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0006/canvas",
+      "sha256": "ffdd84cf09faec13427adce007825d29deb38ab3160c8e8e440f2d63dee98855",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 7,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0007/canvas",
+      "label": "r [7]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0007/canvas",
+      "sha256": "a1d3c11b9439d0279c90c14f25a2e360276e97427bbb767f4dc6bc9bf6e0cc15",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 8,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0008/canvas",
+      "label": "v [8]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0008/canvas",
+      "sha256": "c6b5e8083444fe6bfb99944fc0b28cb3e6c436b6b0de09be216391f99f8b1e8d",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 9,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0009/canvas",
+      "label": "r [9]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0009/canvas",
+      "sha256": "4a5816725344137362a6ad1cda81cc38cc01e5df799bb363e5565d7ec0e0e62c",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [
+        {
+          "kind": "manuscript-symbol",
+          "description": "頁首約 x878–1048、y71–242，墨色四圓及方框，內帶紅筆。與 f005 頁首圖形相近。",
+          "x_approx": 965,
+          "bbox_xyxy_px_approx": [
+            878,
+            71,
+            1048,
+            242
+          ]
+        }
+      ],
+      "uncertainty": []
+    },
+    {
+      "image": 10,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0010/canvas",
+      "label": "v [10]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0010/canvas",
+      "sha256": "d9cb70fdf33f809dc7bb18918e2c4adb1c5c0433020a1be95a46d2b4a83e5c2c",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": [
+        {
+          "unit_id": "f010-c06",
+          "span": [
+            10,
+            14
+          ],
+          "surface_text": "〔瞞疑〕",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 11,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0011/canvas",
+      "label": "r [11]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0011/canvas",
+      "sha256": "55d59e32e3978d7c35828c5f0dd181b1397ea3a6ff916061136071a8679ed641",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 12,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0012/canvas",
+      "label": "v [12]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0012/canvas",
+      "sha256": "bb7a6efc03167f0c85e565cc125619166267818fcd9b8609451c91c971d0a07b",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 13,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0013/canvas",
+      "label": "r [13]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0013/canvas",
+      "sha256": "d70839033d8f46352feb5a815f4f0db07a1a6dab94273cf9df9c0d89aee37737",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 14,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0014/canvas",
+      "label": "v [14]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0014/canvas",
+      "sha256": "6b129728a2ec2db373885e82fc309fad8d96030290466f2b8c3f9fa0b4e3b378",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 15,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0015/canvas",
+      "label": "r [15]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0015/canvas",
+      "sha256": "f9d8b8f5106ad9413da78effb40d95e8fd85dc6f8500fc2685d208dfe43564de",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 16,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0016/canvas",
+      "label": "v [16]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0016/canvas",
+      "sha256": "b1130af5774094b0134304a35cbe924361ac3708e428bb0ee02049320e072740",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 17,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0017/canvas",
+      "label": "r [17]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0017/canvas",
+      "sha256": "77d7b74f8a4bb4c893ed2f76bbf1f8e14c1d4d1f35ff459fa6ecb32a41936b04",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 18,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0018/canvas",
+      "label": "v [18]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0018/canvas",
+      "sha256": "90cb0e9316dcce08a9c67399464913711f5a5881cea6cca79c6491873c298502",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 19,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0019/canvas",
+      "label": "r [19]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0019/canvas",
+      "sha256": "677e23489cc8a49990146fa2941ec132e9ba51ad431c3b09fc14459bd8422763",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 20,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0020/canvas",
+      "label": "v [20]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0020/canvas",
+      "sha256": "505b26cedd692ba29d7f07e31df63e4a34981bc5d87ae0a7f2cab04b21dd7012",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 21,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0021/canvas",
+      "label": "r [21]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0021/canvas",
+      "sha256": "11ac037495cb8e22001fd894a53b04901cdeefc6b9a7db725e4555740ad5e083",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 22,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0022/canvas",
+      "label": "v [22]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0022/canvas",
+      "sha256": "3e04555bcc9ea9435adf3f75a25d1d937bbc23925fd3afe900f33222506579ae",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 23,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0023/canvas",
+      "label": "r [23]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0023/canvas",
+      "sha256": "ab946390882632b71b20403906cce561185b818bc6ac1e76431c50655e8c7ccc",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 24,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0024/canvas",
+      "label": "v [24]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0024/canvas",
+      "sha256": "afb320233b659aed10bf8ea7181ee60c591eadf6ec57c9e4b33c6319e406157a",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 25,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0025/canvas",
+      "label": "r [25]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0025/canvas",
+      "sha256": "d8ad693e54ab883e91f36b529a71fbce353aec96b0c3e46216fb8732a8af5193",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 26,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0026/canvas",
+      "label": "v [26]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0026/canvas",
+      "sha256": "4480a955cd2e8fc6f1fe881b29485397843d7a76ed4d101757155f31bb8c8422",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 27,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0027/canvas",
+      "label": "r [27]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0027/canvas",
+      "sha256": "8e6e0889506da9bfa65e78d2a1b83ec6819f4ec45282b81995799a6433e716ae",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 28,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0028/canvas",
+      "label": "v [28]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0028/canvas",
+      "sha256": "57764e270090c64bcb466741ecd9ae73678bebd6787bc214e26f0445aabd68ac",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 29,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0029/canvas",
+      "label": "r [29]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0029/canvas",
+      "sha256": "c9367e7c524a2989972b292e92fbe45e14c8b557927a73aa272c4186b247089b",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 30,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0030/canvas",
+      "label": "v [30]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0030/canvas",
+      "sha256": "c2adc1f2f939acfed577ee72f788f084d6fc893812524230ca47a28bf0140019",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 31,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0031/canvas",
+      "label": "r [31]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0031/canvas",
+      "sha256": "e15d881d15efd0bd4ca109d1161a4133e2b7002a35920c2d526c72db97217846",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 32,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0032/canvas",
+      "label": "v [32]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0032/canvas",
+      "sha256": "897a1038c1e7cc9b223998b4fdd905ac07bc5a2a1f3a1bb4934801ec07091816",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 33,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0033/canvas",
+      "label": "r [33]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0033/canvas",
+      "sha256": "c917a9ef9c08baf34873d376218878c151f37d275658ce21193f6da729b497ce",
+      "scan_width": 1419,
+      "scan_height": 2536,
+      "dimensions": [
+        1419,
+        2536
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 34,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0034/canvas",
+      "label": "v [34]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0034/canvas",
+      "sha256": "7d76196ac12c89a2986e9a2035e99e0a4d187cc2bd399d33ce4817b300157e52",
+      "scan_width": 1413,
+      "scan_height": 2540,
+      "dimensions": [
+        1413,
+        2540
+      ],
+      "writing_status": "正文",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": [
+        {
+          "unit_id": "f034-n01",
+          "span": [
+            10,
+            13
+          ],
+          "surface_text": "〔疑〕",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f034-n02",
+          "span": [
+            1,
+            4
+          ],
+          "surface_text": "〔疑〕",
+          "resolution": "unresolved"
+        }
+      ]
+    },
+    {
+      "image": 35,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0035/canvas",
+      "label": " -  [35]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0035/canvas",
+      "sha256": "827d1dd005ad4f52b20d64ecf71926d9b3b87845a6b0323c347ed958829acd6b",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 36,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0036/canvas",
+      "label": " -  [36]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0036/canvas",
+      "sha256": "a0334877747d300b9a68903ea5dcbfb2e72fde9008f5a4ceb99e5b0287a3fa32",
+      "scan_width": 1413,
+      "scan_height": 2539,
+      "dimensions": [
+        1413,
+        2539
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 37,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0037/canvas",
+      "label": " -  [37]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0037/canvas",
+      "sha256": "037cdea4d8762982461406ee57c3fb18cfde568b10a94a9131bb05ddccbd6f9b",
+      "scan_width": 1419,
+      "scan_height": 2535,
+      "dimensions": [
+        1419,
+        2535
+      ],
+      "writing_status": "空白",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 38,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0038/canvas",
+      "label": " -  [38]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0038/canvas",
+      "sha256": "827112efd79dc43cc404b45cfed714b156866b6dbaa849b32244db3e1964bb26",
+      "scan_width": 1644,
+      "scan_height": 2569,
+      "dimensions": [
+        1644,
+        2569
+      ],
+      "writing_status": "封底",
+      "duplicate_of": null,
+      "illustrations": [],
+      "uncertainty": []
+    },
+    {
+      "image": 39,
+      "id": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0039/canvas",
+      "label": " -  [39]",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/3348761158-0039/canvas",
+      "sha256": "e25c9e62ab5e620f97ba99df586efbaf632b8b02f4210056a9eb37638f963157",
+      "scan_width": 2073,
+      "scan_height": 2102,
+      "dimensions": [
+        2073,
+        2102
+      ],
+      "writing_status": "色卡重拍",
+      "duplicate_of": 5,
+      "illustrations": [],
+      "uncertainty": []
+    }
+  ]
+}
