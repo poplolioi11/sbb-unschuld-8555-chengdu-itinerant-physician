@@ -1,0 +1,258 @@
+{
+  "initial_sha256": "2b0f7812adc29c9c6c0b5b95e4f884fef9e700a12b8f7b314634bb3aa7d852b8",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "bfb1545f2d05bb548c49f3cea4e8a80575ca396408379b9a754bf26ea49269ee",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "e698c92daa945d9156af8d9b19e26fa61d16d8ed1098c385c43ba97953d09cfa",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "b176d24d5db995acb303369813e4df025d1ad1fe69acc0ced921feaadac071f7",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "543273773dbf3487220340423b5f4bc2b35dac112e1f0be084867c194e6895a6",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "a53c661d46c8ff11daa7d0f0baa9d7bd0ca8a58cff09a9dd68eb29c55bc9b640",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "ffdd84cf09faec13427adce007825d29deb38ab3160c8e8e440f2d63dee98855",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "a1d3c11b9439d0279c90c14f25a2e360276e97427bbb767f4dc6bc9bf6e0cc15",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "c6b5e8083444fe6bfb99944fc0b28cb3e6c436b6b0de09be216391f99f8b1e8d",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "4a5816725344137362a6ad1cda81cc38cc01e5df799bb363e5565d7ec0e0e62c",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "d9cb70fdf33f809dc7bb18918e2c4adb1c5c0433020a1be95a46d2b4a83e5c2c",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "55d59e32e3978d7c35828c5f0dd181b1397ea3a6ff916061136071a8679ed641",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "bb7a6efc03167f0c85e565cc125619166267818fcd9b8609451c91c971d0a07b",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "d70839033d8f46352feb5a815f4f0db07a1a6dab94273cf9df9c0d89aee37737",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "6b129728a2ec2db373885e82fc309fad8d96030290466f2b8c3f9fa0b4e3b378",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "f9d8b8f5106ad9413da78effb40d95e8fd85dc6f8500fc2685d208dfe43564de",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "b1130af5774094b0134304a35cbe924361ac3708e428bb0ee02049320e072740",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "77d7b74f8a4bb4c893ed2f76bbf1f8e14c1d4d1f35ff459fa6ecb32a41936b04",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "90cb0e9316dcce08a9c67399464913711f5a5881cea6cca79c6491873c298502",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "677e23489cc8a49990146fa2941ec132e9ba51ad431c3b09fc14459bd8422763",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "505b26cedd692ba29d7f07e31df63e4a34981bc5d87ae0a7f2cab04b21dd7012",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "11ac037495cb8e22001fd894a53b04901cdeefc6b9a7db725e4555740ad5e083",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "3e04555bcc9ea9435adf3f75a25d1d937bbc23925fd3afe900f33222506579ae",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "ab946390882632b71b20403906cce561185b818bc6ac1e76431c50655e8c7ccc",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "afb320233b659aed10bf8ea7181ee60c591eadf6ec57c9e4b33c6319e406157a",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "d8ad693e54ab883e91f36b529a71fbce353aec96b0c3e46216fb8732a8af5193",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "4480a955cd2e8fc6f1fe881b29485397843d7a76ed4d101757155f31bb8c8422",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "8e6e0889506da9bfa65e78d2a1b83ec6819f4ec45282b81995799a6433e716ae",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "57764e270090c64bcb466741ecd9ae73678bebd6787bc214e26f0445aabd68ac",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "c9367e7c524a2989972b292e92fbe45e14c8b557927a73aa272c4186b247089b",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "c2adc1f2f939acfed577ee72f788f084d6fc893812524230ca47a28bf0140019",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "e15d881d15efd0bd4ca109d1161a4133e2b7002a35920c2d526c72db97217846",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "897a1038c1e7cc9b223998b4fdd905ac07bc5a2a1f3a1bb4934801ec07091816",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "c917a9ef9c08baf34873d376218878c151f37d275658ce21193f6da729b497ce",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "7d76196ac12c89a2986e9a2035e99e0a4d187cc2bd399d33ce4817b300157e52",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "827d1dd005ad4f52b20d64ecf71926d9b3b87845a6b0323c347ed958829acd6b",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "a0334877747d300b9a68903ea5dcbfb2e72fde9008f5a4ceb99e5b0287a3fa32",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "037cdea4d8762982461406ee57c3fb18cfde568b10a94a9131bb05ddccbd6f9b",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "827112efd79dc43cc404b45cfed714b156866b6dbaa849b32244db3e1964bb26",
+      "review": "圖幅、讀序與佔欄盤點"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "e25c9e62ab5e620f97ba99df586efbaf632b8b02f4210056a9eb37638f963157",
+      "review": "圖幅、讀序與佔欄盤點"
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f005-c05",
+      "frame": 5,
+      "image_sha256": "a53c661d46c8ff11daa7d0f0baa9d7bd0ca8a58cff09a9dd68eb29c55bc9b640",
+      "before": "醫癆癆氣膨膈閻王請下客此人少有病真醫不得",
+      "after": "醫〔疾／癆？〕癆氣膨膈閻王請下客此人少有病真醫不得",
+      "image_bbox": [
+        305,
+        408,
+        490,
+        610
+      ],
+      "reason": "放大原圖後，兩個疒旁字的內部筆形不同；前字內有開展斜筆，與次字兩火及力形有別。先保留疾／癆候選。",
+      "replace_in_linked_readings": [
+        "醫癆癆氣",
+        "醫〔疾／癆？〕癆氣"
+      ]
+    },
+    {
+      "unit": "f034-n01",
+      "frame": 34,
+      "image_sha256": "7d76196ac12c89a2986e9a2035e99e0a4d187cc2bd399d33ce4817b300157e52",
+      "before": "光緒七年七月初六日鑑〔疑〕黃氏抄",
+      "after": "光緒七年七月初六日鎰黃氏抄",
+      "image_bbox": [
+        267,
+        1400,
+        481,
+        1645
+      ],
+      "reason": "原圖金旁右上有兩斜點與橫畫，右下從皿，符合鎰而欠鑑右部的臣形。館目關聯名作萬鎰黃。末葉另有偏右小字万，仍獨立定位。",
+      "replace_in_linked_readings": [
+        "鑑〔疑〕",
+        "鎰"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "frame": 5,
+      "unit": "f005-c05",
+      "candidate": "疾／癆",
+      "reason": "首疒內交筆形仍待判"
+    },
+    {
+      "frame": 34,
+      "unit": "f034-n02",
+      "candidate": "万",
+      "reason": "小字有單曲筆與橫筆，與左款連接順序存疑"
+    },
+    {
+      "frame": 39,
+      "related_frame": 5,
+      "reason": "重拍所露末欄左下疊筆，無可確定的獨立欄"
+    }
+  ],
+  "description": "39幅依固定底本逐幅核對，覆蓋封面、護葉、正文、抄記及色卡重拍。另放大首葉異讀並核對末葉署款。館方ALTO用來辨識既有數位結果與抽樣比較。"
+}

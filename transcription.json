@@ -7,10 +7,10 @@
     "source": "https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000",
     "manifest": "https://content.staatsbibliothek-berlin.de/dc/3348761158/manifest",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅核對頁面、欄序與圖記範圍，選取異讀回查字形，記錄 2 個讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "The review checks page and column coverage, reexamines selected readings against the images and records 2 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -168,7 +168,7 @@
             {
               "id": "f005-c05",
               "role": "body",
-              "text": "醫癆癆氣膨膈閻王請下客此人少有病真醫不得",
+              "text": "醫〔疾／癆？〕癆氣膨膈閻王請下客此人少有病真醫不得",
               "x_approx": 411
             },
             {
@@ -2059,7 +2059,7 @@
             {
               "id": "f034-n01",
               "role": "colophon",
-              "text": "光緒七年七月初六日鑑〔疑〕黃氏抄",
+              "text": "光緒七年七月初六日鎰黃氏抄",
               "x_approx": 328,
               "placement": "抄記，大字直書約 x198–455、y73–2469。日下至抄字間隔甚寬。"
             },
@@ -2239,7 +2239,9 @@
     "visual_note_records": 51,
     "graphic_symbols_located": 2,
     "inline_uncertainty_spans": 3,
-    "text_units": 178
+    "text_units": 178,
+    "reviewed_image_frames": 39,
+    "columns_with_inline_uncertainty": 3
   },
   "source_reference": {
     "catalogue": "https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000",

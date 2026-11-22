@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. The review checks page and column coverage, reexamines selected readings against the images and records 2 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>Slg. Unschuld 8555 <ref target="https://resolver.staatsbibliothek-berlin.de/SBB0001643E00000000">Source catalogue</ref>
@@ -55,7 +55,7 @@
           <ab type="body" n="f005-c02" xml:id="u-f005-c02">主免得六慾共七慾眼竅通知忘絕相五脏六腑上</ab>
           <ab type="body" n="f005-c03" xml:id="u-f005-c03">下連十二重樓通關竅心猿意馬莫偷閑</ab>
           <ab type="body" n="f005-c04" xml:id="u-f005-c04">病有四百四十症約有八百八十方只有五樣病難</ab>
-          <ab type="body" n="f005-c05" xml:id="u-f005-c05">醫癆癆氣膨膈閻王請下客此人少有病真醫不得</ab>
+          <ab type="body" n="f005-c05" xml:id="u-f005-c05">醫〔疾／癆？〕癆氣膨膈閻王請下客此人少有病真醫不得</ab>
           <ab type="body" n="f005-c06" xml:id="u-f005-c06">真近來醫家雖多總要遇倒之醫明理總要有緣</ab>
           <note type="editorial">六欄。紙有水平折痕與外緣裂口，左下角斜缺切及末欄。此幅正文另有 f039 色卡重拍。</note>
           <note type="editorial">疑讀　02「免」「慾」「忘絕相」依字面暫讀。05「癆癆」首字疒內筆比次字不同，可能是「瘓」等另一字。「膨膈」兩字皆月旁，次字右部近冋形；「閻」門內可見三短橫，依此讀「閻王」。「下客」及近下緣「得」均待覆。06「遇倒」前後以原讀保留，末字「緣」下部有損。</note>
@@ -414,7 +414,7 @@
         <div type="surface" n="whole">
           <ab type="body" n="f034-c01" xml:id="u-f034-c01">蘼枳殻棱莪三用得參苓白术加木香久痢不止還堪啜我有</ab>
           <ab type="body" n="f034-c02" xml:id="u-f034-c02">神仙換骨丹一服當先功莫測</ab>
-          <ab type="colophon" n="f034-n01" xml:id="u-f034-n01">光緒七年七月初六日鑑〔疑〕黃氏抄</ab>
+          <ab type="colophon" n="f034-n01" xml:id="u-f034-n01">光緒七年七月初六日鎰黃氏抄</ab>
           <ab type="small-writing" n="f034-n02" xml:id="u-f034-n02">万〔疑〕</ab>
           <note type="editorial">右側兩欄收束正文，左側另有異體大字抄記。右外緣和底緣破損，中央下方多處藍灰滲墨兼摺痕。</note>
           <note type="editorial">疑讀　正文 01 欄首草下有鹿與米狀連筆，暫作「蘼」，f033 跨幅前字「香」。同欄「棱莪三」沿圖面字序。抄記「鑑」金旁、右下皿可見，右上有兩斜筆，也可能是「鎰」。小字「万」與下字之接合待覆。</note>

@@ -12,9 +12,9 @@ All 39 scans are indexed, with 176 main-text columns and colophon writing. Scan 
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。按原圖由右至左分欄，保留可讀俗字、口語、缺字與疑讀。圈點、頁首符形及現代色卡分開記載。
+逐幅核對頁面、欄序與圖記範圍，選取異讀回查字形，記錄 2 個讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。按原圖由右至左分欄，保留可讀俗字、口語、缺字與疑讀。圈點、頁首符形及現代色卡分開記載。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Columns follow the source right to left. Readable variant forms, colloquial wording, uncertain characters and physical features are distinguished.
+The review checks page and column coverage, reexamines selected readings against the images and records 2 changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Columns follow the source right to left. Readable variant forms, colloquial wording, uncertain characters and physical features are distinguished.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '〔成都鈴醫書〕（1881 年抄記，柏林 Slg. Unschuld 8555） / Cheng du ling yi shu [An itinerant
   physician’s text from Chengdu]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu
